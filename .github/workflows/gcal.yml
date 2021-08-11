@@ -10,8 +10,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: GCal Import
-      uses: maxogden/google-calendar-import@0.0.8
+      uses: maxogden/google-calendar-import@0.0.9
       with:
         google-token: ${{ secrets.GOOGLE_TOKEN }}
         google-credentials: ${{ secrets.GOOGLE_CREDENTIALS }}
         calendar-id: ${{ secrets.CALENDAR_ID }}
+        repo-token: ${{ secrets.GITHUB_TOKEN }}

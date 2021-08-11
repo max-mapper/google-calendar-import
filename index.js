@@ -4,6 +4,7 @@ const { Octokit } = require("@octokit/rest")
 
 const run = async () => {
   try {
+    const repoToken = core.getInput('repo-token')
     const token = getToken()
     const creds = getCredentials()
     const client = getOAuth2Client(token, creds)
@@ -24,7 +25,7 @@ const run = async () => {
           const start = event.start.dateTime || event.start.date
           core.info(`${start} - ${event.summary}`)
         })
-        await saveToFile(events)
+        await saveToFile(repoToken, events)
       } else {
         core.info('No upcoming events found.')
       }
@@ -56,9 +57,9 @@ const getOAuth2Client = (token, credentials) => {
   return oAuth2Client
 }
 
-const saveToFile = async (obj) => {
+const saveToFile = async (repoToken, obj) => {
   const octokit = new Octokit({
-    auth: process.env.GITHUB_TOKEN,
+    auth: repoToken,
   })
   const username = process.env.GITHUB_REPOSITORY.split("/")[0]
   const repo = process.env.GITHUB_REPOSITORY.split("/")[1]
