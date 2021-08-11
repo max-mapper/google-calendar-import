@@ -89,11 +89,12 @@ const saveToFile = async (repoToken, obj, jsonPath) => {
       repo: options.repo,
       path: options.path,
     })
+    core.info(JSON.stringify(result))
     const data = result.data.content
     options.sha = result.data.sha
     existingEvents = JSON.parse(data)
   } catch (err) {
-    // file doesn't exist
+    core.error("Error getting content: " + err.message)
   }
 
   const linkRegex = /\b(https?):\/\/[\-A-Za-z0-9+&@#\/%?=~_|!:,.;]*[\-A-Za-z0-9+&@#\/%=~_|]/
