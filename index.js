@@ -4,6 +4,7 @@ const { Octokit } = require("@octokit/rest")
 
 const run = async () => {
   try {
+    const jsonPath = core.getInput('json-path')
     const repoToken = core.getInput('repo-token')
     const token = getToken()
     const creds = getCredentials()
@@ -25,7 +26,7 @@ const run = async () => {
           const start = event.start.dateTime || event.start.date
           core.info(`${start} - ${event.summary}`)
         })
-        await saveToFile(repoToken, events)
+        await saveToFile(repoToken, events, jsonPath)
       } else {
         core.info('No upcoming events found.')
       }
@@ -57,20 +58,19 @@ const getOAuth2Client = (token, credentials) => {
   return oAuth2Client
 }
 
-const saveToFile = async (repoToken, obj) => {
+const saveToFile = async (repoToken, obj, jsonPath) => {
   const octokit = new Octokit({
     auth: repoToken,
   })
   const username = process.env.GITHUB_REPOSITORY.split("/")[0]
   const repo = process.env.GITHUB_REPOSITORY.split("/")[1]
-  const contentEncoded = Buffer.from(JSON.stringify(obj)).toString('base64')
-  const options = {
+  let options = {
     // replace the owner and email with your own details
     owner: username,
     repo: repo,
-    path: "test.json",
+    path: jsonPath,
     message: "Updated json programatically",
-    content: contentEncoded,
+    content: '',
     committer: {
       name: `Octokit Bot`,
       email: "octokit@example.com",
@@ -80,8 +80,47 @@ const saveToFile = async (repoToken, obj) => {
       email: "octokit@example.com",
     },
   }
-  core.info(JSON.stringify(options))
+
+  // get existing file so we can merge data in
+  const { data } = await octokit.repos.getContent({
+    owner: options.owner,
+    repo: options.repo,
+    path: options.path,
+  })
+  let existingEvents = { events: [] }
+  try {
+    existingEvents = JSON.parse(data)
+  } catch (err) {
+    // file doesn't exist
+  }
+
+  const linkRegex = /\b(https?):\/\/[\-A-Za-z0-9+&@#\/%?=~_|!:,.;]*[\-A-Za-z0-9+&@#\/%=~_|]/
+
+  // merge events using name as unique key
+  obj.forEach((event) => {
+    const link = event.description.match(link)[0]
+    const start = new Date(event.start.date)
+    let details = {
+      name: event.summary,
+      date: start,
+      description: event.description,
+      link
+    }
+
+    let exists = false
+    existingEvents.events.forEach((existing) => {
+      if (existing.name === details.name) exists = true
+    })
+
+    if (!exists) existingEvents.events.push(details)
+  })
+
+  existingEvents.events.sort((a, b) => b.date - a.date )
+
+  const contentEncoded = Buffer.from(JSON.stringify(existingEvents, null, '  ')).toString('base64')
+
   const { data } = await octokit.repos.createOrUpdateFileContents(options)
+  
   return data
 }
 
