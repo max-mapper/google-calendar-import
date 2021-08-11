@@ -84,15 +84,14 @@ const saveToFile = async (repoToken, obj, jsonPath) => {
   let existingEvents = { events: [] }
   try {
      // get existing file so we can merge data in
-    const { result } = await octokit.repos.getContent({
+    const { data } = await octokit.repos.getContent({
       owner: options.owner,
       repo: options.repo,
       path: options.path,
     })
-    core.info(JSON.stringify(result))
-    const data = result.data.content
-    options.sha = result.data.sha
-    existingEvents = JSON.parse(data)
+    core.info('Existing data: ' + JSON.stringify(data))
+    options.sha = data.sha
+    existingEvents = JSON.parse(data.content)
   } catch (err) {
     core.error("Error getting content: " + err.message)
   }
