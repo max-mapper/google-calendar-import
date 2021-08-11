@@ -13,6 +13,9 @@ inputs:
   json-path:
     description: string, path of the json file in the repo to read/write
     required: true
+  repo-token:
+    description: string, github env var for repo token
+    required: true
 branding:
   icon: 'chevron-right'  
   color: 'gray-dark'
