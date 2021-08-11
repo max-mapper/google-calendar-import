@@ -1,6 +1,7 @@
 const core = require('@actions/core')
 const { google } = require('googleapis')
 const { Octokit } = require("@octokit/rest")
+const { v4: uuidv4 } = require('uuid')
 
 const run = async () => {
   try {
@@ -107,7 +108,8 @@ const saveToFile = async (repoToken, obj, jsonPath) => {
       name: event.summary,
       date: start,
       description: event.description,
-      link
+      link,
+      id: uuidv4()
     }
 
     let exists = false
