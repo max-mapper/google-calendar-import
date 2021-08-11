@@ -1,4 +1,16 @@
-this runs on a cron and gets a google calendars events so you can write them to a github repo as JSON
+this runs on a cron and gets a google calendars events so you can write them to a github repo as JSON. events will be saved in this format in the file you specify in your config (using name as the unique key):
+
+```
+{
+  "events": [
+    {
+      "name": "National Public Lands Day",
+      "date": "2021-09-25T00:00:00.000Z",
+      "description": "It's <b>NPLD</b>"
+    }
+  ]
+}
+```
 
 # setup
 
