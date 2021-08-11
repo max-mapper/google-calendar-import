@@ -16,7 +16,7 @@ const run = async () => {
       maxResults: 100,
       singleEvents: true,
       orderBy: 'startTime',
-    }, (err, res) => {
+    }, async (err, res) => {
       if (err) return core.error('The API returned an error: ' + err)
       const events = res.data.items
       if (events.length) {
