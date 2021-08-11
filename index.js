@@ -81,17 +81,16 @@ const saveToFile = async (repoToken, obj, jsonPath) => {
     },
   }
 
-  // get existing file so we can merge data in
-  const { result } = await octokit.repos.getContent({
-    owner: options.owner,
-    repo: options.repo,
-    path: options.path,
-  })
-  const data = result.data.content
-  options.sha = result.data.sha
-  
   let existingEvents = { events: [] }
   try {
+     // get existing file so we can merge data in
+    const { result } = await octokit.repos.getContent({
+      owner: options.owner,
+      repo: options.repo,
+      path: options.path,
+    })
+    const data = result.data.content
+    options.sha = result.data.sha
     existingEvents = JSON.parse(data)
   } catch (err) {
     // file doesn't exist
