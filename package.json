@@ -1,0 +1,25 @@
+{
+  "name": "google-calendar-import",
+  "version": "2.1.5",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maxogden/google-calendar-import.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maxogden/google-calendar-import/issues"
+  },
+  "homepage": "https://github.com/maxogden/google-calendar-import",
+  "dependencies": {
+    "@actions/core": "^1.2.7",
+    "@actions/github": "^4.0.0",
+    "googleapis": "^84.0.0"
+  }
+}

@@ -1,0 +1,14 @@
+name: GCal Import
+on:
+  issues:
+    types: [ opened ]
+jobs:
+  asana:
+    runs-on: ubuntu-latest
+    steps:
+    - name: GCal Import
+      uses: maxogden/google-calendar-import@0.0.1
+      with:
+        google-token: ${{ secrets.GOOGLE_TOKEN }}
+        google-credentials: ${{ secrets.GOOGLE_CREDENTIALS }}
+        calendar-id: ${{ secrets.CALENDAR_ID }}

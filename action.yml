@@ -1,0 +1,18 @@
+name: 'Google Calendar Import'
+description: 'Imports Google Calendar into a JSON file'
+inputs:
+  google-credentials:
+    description: string, contents of credentials.json
+    required: true
+  google-token:
+    description: string, contents of token.json
+    required: true
+  google-calendar-id:
+    description: string, the calendar id to check. If not specified, will take the primary calendar of that account
+    required: false
+branding:
+  icon: 'chevron-right'  
+  color: 'gray-dark'
+runs:
+  using: 'node12'
+  main: 'index.js'
