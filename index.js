@@ -1,4 +1,5 @@
 const core = require('@actions/core')
+const { google } = require('googleapis')
 
 const run = async () => {
   try {
