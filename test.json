@@ -1,1 +1,9 @@
-{ "events": [] }
+{
+  "events": [
+    {
+      "name": "National Public Lands Day",
+      "date": "2021-09-25T00:00:00.000Z",
+      "description": "It's <b>NPLD</b>"
+    }
+  ]
+}
