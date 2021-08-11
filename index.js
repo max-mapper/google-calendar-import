@@ -2,8 +2,8 @@ const core = require('@actions/core')
 
 const run = async () => {
   try {
-    const creds = getToken()
-    const token = getCredentials()
+    const token = getToken()
+    const creds = getCredentials()
     const client = getOAuth2Client(token, creds)
     const calendar = google.calendar({ version: 'v3', auth: client })
     const calendarId = core.getInput('calendar-id')
