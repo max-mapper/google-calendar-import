@@ -7,7 +7,7 @@ inputs:
   google-token:
     description: string, contents of token.json
     required: true
-  google-calendar-id:
+  calendar-id:
     description: string, the calendar id to check. If not specified, will take the primary calendar of that account
     required: false
 branding:
