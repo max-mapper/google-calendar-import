@@ -89,9 +89,8 @@ const saveToFile = async (repoToken, obj, jsonPath) => {
       repo: options.repo,
       path: options.path,
     })
-    core.info('Existing data: ' + JSON.stringify(data))
     options.sha = data.sha
-    existingEvents = JSON.parse(data.content)
+    existingEvents = JSON.parse(Buffer.from(data.content, 'base64'))
   } catch (err) {
     core.error("Error getting content: " + err.message)
   }
