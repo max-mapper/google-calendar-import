@@ -63,7 +63,7 @@ const saveToFile = async (obj) => {
   const username = process.env.GITHUB_REPOSITORY.split("/")[0]
   const repo = process.env.GITHUB_REPOSITORY.split("/")[1]
   const contentEncoded = Buffer.from(JSON.stringify(obj)).toString('base64')
-  const { data } = await octokit.repos.createOrUpdateFileContents({
+  const options = {
     // replace the owner and email with your own details
     owner: username,
     repo: repo,
@@ -78,7 +78,9 @@ const saveToFile = async (obj) => {
       name: "Octokit Bot",
       email: "octokit@example.com",
     },
-  })
+  }
+  core.info(JSON.stringify(options))
+  const { data } = await octokit.repos.createOrUpdateFileContents(options)
   return data
 }
 
