@@ -1,5 +1,6 @@
 const core = require('@actions/core')
 const { google } = require('googleapis')
+const { Octokit } = require("@octokit/rest")
 
 const run = async () => {
   try {
@@ -23,6 +24,7 @@ const run = async () => {
           const start = event.start.dateTime || event.start.date
           core.info(`${start} - ${event.summary}`)
         })
+        await saveToFile(events)
       } else {
         core.info('No upcoming events found.')
       }
@@ -52,6 +54,32 @@ const getOAuth2Client = (token, credentials) => {
     client_id, client_secret, redirect_uris[0])
   oAuth2Client.setCredentials(token)
   return oAuth2Client
+}
+
+const saveToFile = async (obj) => {
+  const octokit = new Octokit({
+    auth: process.env.GITHUB_TOKEN,
+  })
+  const username = process.env.GITHUB_REPOSITORY.split("/")[0]
+  const repo = process.env.GITHUB_REPOSITORY.split("/")[1]
+  const contentEncoded = Buffer.from(JSON.stringify(obj)).toString('base64')
+  const { data } = await octokit.repos.createOrUpdateFileContents({
+    // replace the owner and email with your own details
+    owner: username,
+    repo: repo,
+    path: "test.json",
+    message: "Updated json programatically",
+    content: contentEncoded,
+    committer: {
+      name: `Octokit Bot`,
+      email: "octokit@example.com",
+    },
+    author: {
+      name: "Octokit Bot",
+      email: "octokit@example.com",
+    },
+  })
+  return data
 }
 
 run()
