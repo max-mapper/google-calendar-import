@@ -119,9 +119,9 @@ const saveToFile = async (repoToken, obj, jsonPath) => {
 
   const contentEncoded = Buffer.from(JSON.stringify(existingEvents, null, '  ')).toString('base64')
 
-  const { data } = await octokit.repos.createOrUpdateFileContents(options)
+  const { data2 } = await octokit.repos.createOrUpdateFileContents(options)
   
-  return data
+  return data2
 }
 
 run()
