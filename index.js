@@ -98,7 +98,9 @@ const saveToFile = async (repoToken, obj, jsonPath) => {
 
   // merge events using name as unique key
   obj.forEach((event) => {
-    const link = event.description.match(linkRegex)[0]
+    let link
+    let matches = event.description.match(linkRegex)
+    if (matches) link = matches[0]
     const start = new Date(event.start.date)
     let details = {
       name: event.summary,
