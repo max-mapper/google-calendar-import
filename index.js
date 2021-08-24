@@ -102,7 +102,7 @@ const saveToFile = async (repoToken, events, jsonPath) => {
     let link
     let matches = event.description.match(linkRegex)
     if (matches) link = matches[0]
-    const start = new Date(event.start.dateTime)
+    const start = new Date(event.start.dateTime || event.start.date)
     let details = {
       name: event.summary,
       date: start,
