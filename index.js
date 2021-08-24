@@ -1,7 +1,6 @@
 const core = require('@actions/core')
 const { google } = require('googleapis')
 const { Octokit } = require("@octokit/rest")
-const { v4: uuidv4 } = require('uuid')
 
 const run = async () => {
   try {
@@ -59,7 +58,7 @@ const getOAuth2Client = (token, credentials) => {
   return oAuth2Client
 }
 
-const saveToFile = async (repoToken, obj, jsonPath) => {
+const saveToFile = async (repoToken, events, jsonPath) => {
   const octokit = new Octokit({
     auth: repoToken,
   })
@@ -98,23 +97,23 @@ const saveToFile = async (repoToken, obj, jsonPath) => {
 
   const linkRegex = /\b(https?):\/\/[\-A-Za-z0-9+&@#\/%?=~_|!:,.;]*[\-A-Za-z0-9+&@#\/%=~_|]/
 
-  // merge events using name as unique key
-  obj.forEach((event) => {
+  // merge events using id as unique key
+  events.forEach((event) => {
     let link
     let matches = event.description.match(linkRegex)
     if (matches) link = matches[0]
-    const start = new Date(event.start.date)
+    const start = new Date(event.start.dateTime)
     let details = {
       name: event.summary,
       date: start,
       description: event.description,
       link,
-      id: uuidv4()
+      id: event.id
     }
 
     let exists = false
     existingEvents.events.forEach((existing) => {
-      if (existing.name === details.name) exists = true
+      if (existing.id === details.id) exists = true
     })
 
     if (!exists) existingEvents.events.push(details)
