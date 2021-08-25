@@ -96,6 +96,7 @@ const saveToFile = async (repoToken, events, jsonPath) => {
   }
 
   const linkRegex = /\b(https?):\/\/[\-A-Za-z0-9+&@#\/%?=~_|!:,.;]*[\-A-Za-z0-9+&@#\/%=~_|]/
+  const existingEventsJsonBefore = JSON.stringify(existingEvents, null, '  ')
 
   // merge events using id as unique key
   events.forEach((event) => {
@@ -113,15 +114,24 @@ const saveToFile = async (repoToken, events, jsonPath) => {
 
     let exists = false
     existingEvents.events.forEach((existing) => {
-      if (existing.id === details.id) exists = true
+      if (existing.id === details.id) {
+        exists = true
+        existing.name = details.name
+        existing.date = details.date
+        existing.description = details.description
+        existing.link = details.link
+      }
     })
 
     if (!exists) existingEvents.events.push(details)
   })
 
   existingEvents.events.sort((a, b) => b.date - a.date )
+  
+  const existingEventsJson = JSON.stringify(existingEvents, null, '  ')
+  if (existingEventsJsonBefore === existingEventsJson) return
 
-  options.content = Buffer.from(JSON.stringify(existingEvents, null, '  ')).toString('base64')
+  options.content = Buffer.from(existingEventsJson).toString('base64')
   const { data2 } = await octokit.repos.createOrUpdateFileContents(options)  
   return data2
 }
