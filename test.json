@@ -1,9 +1,40 @@
 {
   "events": [
     {
+      "name": "TakaTaka Club: Trash Pick Up",
+      "date": "2021-08-31T15:00:00.000Z",
+      "description": "Pick up trash with the Taka Taka Club off the first pull-out along the Angeles Crest Highway. Contact on Instagram or email for details.",
+      "id": "0rbdp7vfgfnm7vipa94ubv9uur"
+    },
+    {
+      "name": "TreePeople: San Francisquito Nevin's Restoration",
+      "date": "2021-09-03T15:00:00.000Z",
+      "description": "<span><span>Enjoy a morning of stewardship immersed in chaparral wildlands by helping protect and reintroduce Nevin’s barberry, a federally endangered species, to its former habitat. This project is in coordination with the California Botanic Garden in the Sierra Pelona Mountains of the Angeles National Forest</span></span>",
+      "id": "7vjvstrgs211vafkje2nkk8cga"
+    },
+    {
+      "name": "TreePeople: San Francisquito Chaparral Restoration",
+      "date": "2021-09-04T15:00:00.000Z",
+      "description": "<span><span>Join TreePeople and the National Fish and Wildlife Foundation in the beautiful San Francisquito Canyon of the Angeles National Forest. Below the rocky hills of the Sierra Pelona mountains, next to a creek leading to the Santa Clara River, we will be restoring an area of the wildlands damaged by the Copper Fire by caring for the native chaparral plants which provide deer, coyotes and others with food and shelter.</span></span>",
+      "id": "5icb5fhv59k7ntfu5spjummmbf"
+    },
+    {
+      "name": "MWBA: Gabrielino Trail Work",
+      "date": "2021-09-19T15:00:00.000Z",
+      "description": "Gabrielino Trail (Between Ken Burton and Long Canyon) trail work. Mountain bike required. Equipment and lunch provided.",
+      "id": "5prnnejfbp7me025i6dshjuqd9"
+    },
+    {
       "name": "National Public Lands Day",
       "date": "2021-09-25T00:00:00.000Z",
-      "description": "It's <b>NPLD</b>"
+      "description": "It's NPLD",
+      "id": "4sg5jq50m10h6v6khkcf0l77rq"
+    },
+    {
+      "name": "TreePeople: San Francisquito Canyon Chaparral Restoration",
+      "date": "2021-09-26T15:00:00.000Z",
+      "description": "<span><p><span>Join TreePeople and the National Fish and Wildlife Foundation in the beautiful San Francisquito Canyon of the Angeles National Forest. Below the rocky hills of the Sierra Pelona mountains, next to a creek leading to the Santa Clara River, we will be restoring an area of the wildlands damaged by the Copper Fire by caring for the native chaparral plants which provide deer, coyotes and others with food and shelter.</span></p></span>",
+      "id": "4ohc8hsoteos4ga6hhns3e5pcj"
     },
     {
       "name": "MWBA:  Gabrielino Trail Work October",
@@ -13,40 +44,9 @@
       "id": "4g0brb6186soilq7741289j2pe"
     },
     {
-      "name": "TreePeople: San Francisquito Canyon Chaparral Restoration",
-      "date": "2021-09-26T15:00:00.000Z",
-      "description": "<span><p><span>Join TreePeople and the National Fish and Wildlife Foundation in the beautiful San Francisquito Canyon of the Angeles National Forest. Below the rocky hills of the Sierra Pelona mountains, next to a creek leading to the Santa Clara River, we will be restoring an area of the wildlands damaged by the Copper Fire by caring for the native chaparral plants which provide deer, coyotes and others with food and shelter.</span></p></span>",
-      "id": "4ohc8hsoteos4ga6hhns3e5pcj"
-    },
-    {
       "name": "National Public Lands Day",
       "date": "2021-09-25T00:00:00.000Z",
-      "description": "It's NPLD",
-      "id": "4sg5jq50m10h6v6khkcf0l77rq"
-    },
-    {
-      "name": "MWBA: Gabrielino Trail Work",
-      "date": "2021-09-19T15:00:00.000Z",
-      "description": "Gabrielino Trail (Between Ken Burton and Long Canyon) trail work. Mountain bike required. Equipment and lunch provided.",
-      "id": "5prnnejfbp7me025i6dshjuqd9"
-    },
-    {
-      "name": "TreePeople: San Francisquito Chaparral Restoration",
-      "date": "2021-09-04T15:00:00.000Z",
-      "description": "<span><span>Join TreePeople and the National Fish and Wildlife Foundation in the beautiful San Francisquito Canyon of the Angeles National Forest. Below the rocky hills of the Sierra Pelona mountains, next to a creek leading to the Santa Clara River, we will be restoring an area of the wildlands damaged by the Copper Fire by caring for the native chaparral plants which provide deer, coyotes and others with food and shelter.</span></span>",
-      "id": "5icb5fhv59k7ntfu5spjummmbf"
-    },
-    {
-      "name": "TreePeople: San Francisquito Nevin's Restoration",
-      "date": "2021-09-03T15:00:00.000Z",
-      "description": "<span><span>Enjoy a morning of stewardship immersed in chaparral wildlands by helping protect and reintroduce Nevin’s barberry, a federally endangered species, to its former habitat. This project is in coordination with the California Botanic Garden in the Sierra Pelona Mountains of the Angeles National Forest</span></span>",
-      "id": "7vjvstrgs211vafkje2nkk8cga"
-    },
-    {
-      "name": "TakaTaka Club: Trash Pick Up",
-      "date": "2021-08-31T15:00:00.000Z",
-      "description": "Pick up trash with the Taka Taka Club off the first pull-out along the Angeles Crest Highway. Contact on Instagram or email for details.",
-      "id": "0rbdp7vfgfnm7vipa94ubv9uur"
+      "description": "It's <b>NPLD</b>"
     }
   ]
 }
