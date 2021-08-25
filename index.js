@@ -126,7 +126,7 @@ const saveToFile = async (repoToken, events, jsonPath) => {
     if (!exists) existingEvents.events.push(details)
   })
 
-  existingEvents.events.sort((a, b) => b.date - a.date )
+  existingEvents.events.sort((a, b) => b.date - a.date ).reverse()
   
   const existingEventsJson = JSON.stringify(existingEvents, null, '  ')
   if (existingEventsJsonBefore === existingEventsJson) return
