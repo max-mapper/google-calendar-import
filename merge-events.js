@@ -29,12 +29,13 @@ module.exports = (events, existingEvents) => {
       }
     })
 
-    if (details.date > cutoffDate) return // skip dates far in future
     if (!exists) existingEvents.events.push(details)
   })
 
-  // delete past events
-  existingEvents.events = existingEvents.events.filter(ev => ev.date > new Date())
+  // delete past events and >3 months in future events
+  existingEvents.events = existingEvents.events
+    .filter(ev => ev.date > new Date())
+    .filter(ev => ev.date < cutoffDate)
 
   existingEvents.events.sort((a, b) => {
     let aId = JSON.stringify(a.date) + a.id
