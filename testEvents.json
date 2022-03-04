@@ -1,0 +1,3602 @@
+[
+  {
+    "kind": "calendar#event",
+    "etag": "\"3288078091130000\"",
+    "id": "594mshiad2ng876696f04ajgtm_20220305",
+    "status": "confirmed",
+    "htmlLink": "https://www.google.com/calendar/event?eid=NTk0bXNoaWFkMm5nODc2Njk2ZjA0YWpndG1fMjAyMjAzMDUgNW9pdW1hODJkanI2czY5NHNpbDI4bTFiYXNAZw",
+    "created": "2022-02-05T05:29:37.000Z",
+    "updated": "2022-02-05T05:30:45.565Z",
+    "summary": "San Gabriel Mountains Trailbuilders",
+    "description": "<font><p>The San Gabriel Mountains Trailbuilders work the 1st, 3rd, and 5th Saturday of every month, and we work special projects which are not scheduled. Please email us to get on to the mailinglist to keep informed about scheduled and special projects! Email Ben at<a href=\"mailto:bwootenwhite@hotmail.com\">bwootenwhite@hotmail.com</a><b></b></p></font>",
+    "creator": {
+      "email": "machikoyasuda@gmail.com"
+    },
+    "organizer": {
+      "email": "5oiuma82djr6s694sil28m1bas@group.calendar.google.com",
+      "displayName": "TrailAngeles Events",
+      "self": true
+    },
+    "start": {
+      "date": "2022-03-05"
+    },
+    "end": {
+      "date": "2022-03-06"
+    },
+    "recurringEventId": "594mshiad2ng876696f04ajgtm",
+    "originalStartTime": {
+      "date": "2022-03-05"
+    },
+    "transparency": "transparent",
+    "iCalUID": "594mshiad2ng876696f04ajgtm@google.com",
+    "sequence": 0,
+    "reminders": {
+      "useDefault": false
+    },
+    "eventType": "default"
+  },
+  {
+    "kind": "calendar#event",
+    "etag": "\"3288078103270000\"",
+    "id": "1cnrei1qrdq2tt21huj3l2103n_20220319",
+    "status": "confirmed",
+    "htmlLink": "https://www.google.com/calendar/event?eid=MWNucmVpMXFyZHEydHQyMWh1ajNsMjEwM25fMjAyMjAzMTkgNW9pdW1hODJkanI2czY5NHNpbDI4bTFiYXNAZw",
+    "created": "2022-02-05T05:29:49.000Z",
+    "updated": "2022-02-05T05:30:51.635Z",
+    "summary": "San Gabriel Mountains Trailbuilders",
+    "description": "<span><br><font><p>The San Gabriel Mountains Trailbuilders work the 1st, 3rd, and 5th Saturday of every month, and we work special projects which are not scheduled. Please email us to get on to the mailinglist to keep informed about scheduled and special projects! Email Ben at<a href=\"mailto:bwootenwhite@hotmail.com\">bwootenwhite@hotmail.com</a><b></b></p></font></span>",
+    "creator": {
+      "email": "machikoyasuda@gmail.com"
+    },
+    "organizer": {
+      "email": "5oiuma82djr6s694sil28m1bas@group.calendar.google.com",
+      "displayName": "TrailAngeles Events",
+      "self": true
+    },
+    "start": {
+      "date": "2022-03-19"
+    },
+    "end": {
+      "date": "2022-03-20"
+    },
+    "recurringEventId": "1cnrei1qrdq2tt21huj3l2103n",
+    "originalStartTime": {
+      "date": "2022-03-19"
+    },
+    "transparency": "transparent",
+    "iCalUID": "1cnrei1qrdq2tt21huj3l2103n@google.com",
+    "sequence": 0,
+    "reminders": {
+      "useDefault": false
+    },
+    "eventType": "default"
+  },
+  {
+    "kind": "calendar#event",
+    "etag": "\"3288078091130000\"",
+    "id": "594mshiad2ng876696f04ajgtm_20220402",
+    "status": "confirmed",
+    "htmlLink": "https://www.google.com/calendar/event?eid=NTk0bXNoaWFkMm5nODc2Njk2ZjA0YWpndG1fMjAyMjA0MDIgNW9pdW1hODJkanI2czY5NHNpbDI4bTFiYXNAZw",
+    "created": "2022-02-05T05:29:37.000Z",
+    "updated": "2022-02-05T05:30:45.565Z",
+    "summary": "San Gabriel Mountains Trailbuilders",
+    "description": "<font><p>The San Gabriel Mountains Trailbuilders work the 1st, 3rd, and 5th Saturday of every month, and we work special projects which are not scheduled. Please email us to get on to the mailinglist to keep informed about scheduled and special projects! Email Ben at<a href=\"mailto:bwootenwhite@hotmail.com\">bwootenwhite@hotmail.com</a><b></b></p></font>",
+    "creator": {
+      "email": "machikoyasuda@gmail.com"
+    },
+    "organizer": {
+      "email": "5oiuma82djr6s694sil28m1bas@group.calendar.google.com",
+      "displayName": "TrailAngeles Events",
+      "self": true
+    },
+    "start": {
+      "date": "2022-04-02"
+    },
+    "end": {
+      "date": "2022-04-03"
+    },
+    "recurringEventId": "594mshiad2ng876696f04ajgtm",
+    "originalStartTime": {
+      "date": "2022-04-02"
+    },
+    "transparency": "transparent",
+    "iCalUID": "594mshiad2ng876696f04ajgtm@google.com",
+    "sequence": 0,
+    "reminders": {
+      "useDefault": false
+    },
+    "eventType": "default"
+  },
+  {
+    "kind": "calendar#event",
+    "etag": "\"3288078103270000\"",
+    "id": "1cnrei1qrdq2tt21huj3l2103n_20220416",
+    "status": "confirmed",
+    "htmlLink": "https://www.google.com/calendar/event?eid=MWNucmVpMXFyZHEydHQyMWh1ajNsMjEwM25fMjAyMjA0MTYgNW9pdW1hODJkanI2czY5NHNpbDI4bTFiYXNAZw",
+    "created": "2022-02-05T05:29:49.000Z",
+    "updated": "2022-02-05T05:30:51.635Z",
+    "summary": "San Gabriel Mountains Trailbuilders",
+    "description": "<span><br><font><p>The San Gabriel Mountains Trailbuilders work the 1st, 3rd, and 5th Saturday of every month, and we work special projects which are not scheduled. Please email us to get on to the mailinglist to keep informed about scheduled and special projects! Email Ben at<a href=\"mailto:bwootenwhite@hotmail.com\">bwootenwhite@hotmail.com</a><b></b></p></font></span>",
+    "creator": {
+      "email": "machikoyasuda@gmail.com"
+    },
+    "organizer": {
+      "email": "5oiuma82djr6s694sil28m1bas@group.calendar.google.com",
+      "displayName": "TrailAngeles Events",
+      "self": true
+    },
+    "start": {
+      "date": "2022-04-16"
+    },
+    "end": {
+      "date": "2022-04-17"
+    },
+    "recurringEventId": "1cnrei1qrdq2tt21huj3l2103n",
+    "originalStartTime": {
+      "date": "2022-04-16"
+    },
+    "transparency": "transparent",
+    "iCalUID": "1cnrei1qrdq2tt21huj3l2103n@google.com",
+    "sequence": 0,
+    "reminders": {
+      "useDefault": false
+    },
+    "eventType": "default"
+  },
+  {
+    "kind": "calendar#event",
+    "etag": "\"3288078115932000\"",
+    "id": "0qn2c3ns2bgnr077hf5vsm753l_20220430",
+    "status": "confirmed",
+    "htmlLink": "https://www.google.com/calendar/event?eid=MHFuMmMzbnMyYmducjA3N2hmNXZzbTc1M2xfMjAyMjA0MzAgNW9pdW1hODJkanI2czY5NHNpbDI4bTFiYXNAZw",
+    "created": "2022-02-05T05:30:31.000Z",
+    "updated": "2022-02-05T05:30:57.966Z",
+    "summary": "San Gabriel Mountains Trailbuilders",
+    "description": "<font><p>The San Gabriel Mountains Trailbuilders work the 1st, 3rd, and 5th Saturday of every month, and we work special projects which are not scheduled. Please email us to get on to the mailinglist to keep informed about scheduled and special projects! Email Ben at<a href=\"mailto:bwootenwhite@hotmail.com\">bwootenwhite@hotmail.com</a></p></font>",
+    "creator": {
+      "email": "machikoyasuda@gmail.com"
+    },
+    "organizer": {
+      "email": "5oiuma82djr6s694sil28m1bas@group.calendar.google.com",
+      "displayName": "TrailAngeles Events",
+      "self": true
+    },
+    "start": {
+      "date": "2022-04-30"
+    },
+    "end": {
+      "date": "2022-05-01"
+    },
+    "recurringEventId": "0qn2c3ns2bgnr077hf5vsm753l",
+    "originalStartTime": {
+      "date": "2022-04-30"
+    },
+    "transparency": "transparent",
+    "iCalUID": "0qn2c3ns2bgnr077hf5vsm753l@google.com",
+    "sequence": 0,
+    "reminders": {
+      "useDefault": false
+    },
+    "eventType": "default"
+  },
+  {
+    "kind": "calendar#event",
+    "etag": "\"3288078091130000\"",
+    "id": "594mshiad2ng876696f04ajgtm_20220507",
+    "status": "confirmed",
+    "htmlLink": "https://www.google.com/calendar/event?eid=NTk0bXNoaWFkMm5nODc2Njk2ZjA0YWpndG1fMjAyMjA1MDcgNW9pdW1hODJkanI2czY5NHNpbDI4bTFiYXNAZw",
+    "created": "2022-02-05T05:29:37.000Z",
+    "updated": "2022-02-05T05:30:45.565Z",
+    "summary": "San Gabriel Mountains Trailbuilders",
+    "description": "<font><p>The San Gabriel Mountains Trailbuilders work the 1st, 3rd, and 5th Saturday of every month, and we work special projects which are not scheduled. Please email us to get on to the mailinglist to keep informed about scheduled and special projects! Email Ben at<a href=\"mailto:bwootenwhite@hotmail.com\">bwootenwhite@hotmail.com</a><b></b></p></font>",
+    "creator": {
+      "email": "machikoyasuda@gmail.com"
+    },
+    "organizer": {
+      "email": "5oiuma82djr6s694sil28m1bas@group.calendar.google.com",
+      "displayName": "TrailAngeles Events",
+      "self": true
+    },
+    "start": {
+      "date": "2022-05-07"
+    },
+    "end": {
+      "date": "2022-05-08"
+    },
+    "recurringEventId": "594mshiad2ng876696f04ajgtm",
+    "originalStartTime": {
+      "date": "2022-05-07"
+    },
+    "transparency": "transparent",
+    "iCalUID": "594mshiad2ng876696f04ajgtm@google.com",
+    "sequence": 0,
+    "reminders": {
+      "useDefault": false
+    },
+    "eventType": "default"
+  },
+  {
+    "kind": "calendar#event",
+    "etag": "\"3288078103270000\"",
+    "id": "1cnrei1qrdq2tt21huj3l2103n_20220521",
+    "status": "confirmed",
+    "htmlLink": "https://www.google.com/calendar/event?eid=MWNucmVpMXFyZHEydHQyMWh1ajNsMjEwM25fMjAyMjA1MjEgNW9pdW1hODJkanI2czY5NHNpbDI4bTFiYXNAZw",
+    "created": "2022-02-05T05:29:49.000Z",
+    "updated": "2022-02-05T05:30:51.635Z",
+    "summary": "San Gabriel Mountains Trailbuilders",
+    "description": "<span><br><font><p>The San Gabriel Mountains Trailbuilders work the 1st, 3rd, and 5th Saturday of every month, and we work special projects which are not scheduled. Please email us to get on to the mailinglist to keep informed about scheduled and special projects! Email Ben at<a href=\"mailto:bwootenwhite@hotmail.com\">bwootenwhite@hotmail.com</a><b></b></p></font></span>",
+    "creator": {
+      "email": "machikoyasuda@gmail.com"
+    },
+    "organizer": {
+      "email": "5oiuma82djr6s694sil28m1bas@group.calendar.google.com",
+      "displayName": "TrailAngeles Events",
+      "self": true
+    },
+    "start": {
+      "date": "2022-05-21"
+    },
+    "end": {
+      "date": "2022-05-22"
+    },
+    "recurringEventId": "1cnrei1qrdq2tt21huj3l2103n",
+    "originalStartTime": {
+      "date": "2022-05-21"
+    },
+    "transparency": "transparent",
+    "iCalUID": "1cnrei1qrdq2tt21huj3l2103n@google.com",
+    "sequence": 0,
+    "reminders": {
+      "useDefault": false
+    },
+    "eventType": "default"
+  },
+  {
+    "kind": "calendar#event",
+    "etag": "\"3288078115932000\"",
+    "id": "0qn2c3ns2bgnr077hf5vsm753l_20220528",
+    "status": "confirmed",
+    "htmlLink": "https://www.google.com/calendar/event?eid=MHFuMmMzbnMyYmducjA3N2hmNXZzbTc1M2xfMjAyMjA1MjggNW9pdW1hODJkanI2czY5NHNpbDI4bTFiYXNAZw",
+    "created": "2022-02-05T05:30:31.000Z",
+    "updated": "2022-02-05T05:30:57.966Z",
+    "summary": "San Gabriel Mountains Trailbuilders",
+    "description": "<font><p>The San Gabriel Mountains Trailbuilders work the 1st, 3rd, and 5th Saturday of every month, and we work special projects which are not scheduled. Please email us to get on to the mailinglist to keep informed about scheduled and special projects! Email Ben at<a href=\"mailto:bwootenwhite@hotmail.com\">bwootenwhite@hotmail.com</a></p></font>",
+    "creator": {
+      "email": "machikoyasuda@gmail.com"
+    },
+    "organizer": {
+      "email": "5oiuma82djr6s694sil28m1bas@group.calendar.google.com",
+      "displayName": "TrailAngeles Events",
+      "self": true
+    },
+    "start": {
+      "date": "2022-05-28"
+    },
+    "end": {
+      "date": "2022-05-29"
+    },
+    "recurringEventId": "0qn2c3ns2bgnr077hf5vsm753l",
+    "originalStartTime": {
+      "date": "2022-05-28"
+    },
+    "transparency": "transparent",
+    "iCalUID": "0qn2c3ns2bgnr077hf5vsm753l@google.com",
+    "sequence": 0,
+    "reminders": {
+      "useDefault": false
+    },
+    "eventType": "default"
+  },
+  {
+    "kind": "calendar#event",
+    "etag": "\"3288078091130000\"",
+    "id": "594mshiad2ng876696f04ajgtm_20220604",
+    "status": "confirmed",
+    "htmlLink": "https://www.google.com/calendar/event?eid=NTk0bXNoaWFkMm5nODc2Njk2ZjA0YWpndG1fMjAyMjA2MDQgNW9pdW1hODJkanI2czY5NHNpbDI4bTFiYXNAZw",
+    "created": "2022-02-05T05:29:37.000Z",
+    "updated": "2022-02-05T05:30:45.565Z",
+    "summary": "San Gabriel Mountains Trailbuilders",
+    "description": "<font><p>The San Gabriel Mountains Trailbuilders work the 1st, 3rd, and 5th Saturday of every month, and we work special projects which are not scheduled. Please email us to get on to the mailinglist to keep informed about scheduled and special projects! Email Ben at<a href=\"mailto:bwootenwhite@hotmail.com\">bwootenwhite@hotmail.com</a><b></b></p></font>",
+    "creator": {
+      "email": "machikoyasuda@gmail.com"
+    },
+    "organizer": {
+      "email": "5oiuma82djr6s694sil28m1bas@group.calendar.google.com",
+      "displayName": "TrailAngeles Events",
+      "self": true
+    },
+    "start": {
+      "date": "2022-06-04"
+    },
+    "end": {
+      "date": "2022-06-05"
+    },
+    "recurringEventId": "594mshiad2ng876696f04ajgtm",
+    "originalStartTime": {
+      "date": "2022-06-04"
+    },
+    "transparency": "transparent",
+    "iCalUID": "594mshiad2ng876696f04ajgtm@google.com",
+    "sequence": 0,
+    "reminders": {
+      "useDefault": false
+    },
+    "eventType": "default"
+  },
+  {
+    "kind": "calendar#event",
+    "etag": "\"3288078103270000\"",
+    "id": "1cnrei1qrdq2tt21huj3l2103n_20220618",
+    "status": "confirmed",
+    "htmlLink": "https://www.google.com/calendar/event?eid=MWNucmVpMXFyZHEydHQyMWh1ajNsMjEwM25fMjAyMjA2MTggNW9pdW1hODJkanI2czY5NHNpbDI4bTFiYXNAZw",
+    "created": "2022-02-05T05:29:49.000Z",
+    "updated": "2022-02-05T05:30:51.635Z",
+    "summary": "San Gabriel Mountains Trailbuilders",
+    "description": "<span><br><font><p>The San Gabriel Mountains Trailbuilders work the 1st, 3rd, and 5th Saturday of every month, and we work special projects which are not scheduled. Please email us to get on to the mailinglist to keep informed about scheduled and special projects! Email Ben at<a href=\"mailto:bwootenwhite@hotmail.com\">bwootenwhite@hotmail.com</a><b></b></p></font></span>",
+    "creator": {
+      "email": "machikoyasuda@gmail.com"
+    },
+    "organizer": {
+      "email": "5oiuma82djr6s694sil28m1bas@group.calendar.google.com",
+      "displayName": "TrailAngeles Events",
+      "self": true
+    },
+    "start": {
+      "date": "2022-06-18"
+    },
+    "end": {
+      "date": "2022-06-19"
+    },
+    "recurringEventId": "1cnrei1qrdq2tt21huj3l2103n",
+    "originalStartTime": {
+      "date": "2022-06-18"
+    },
+    "transparency": "transparent",
+    "iCalUID": "1cnrei1qrdq2tt21huj3l2103n@google.com",
+    "sequence": 0,
+    "reminders": {
+      "useDefault": false
+    },
+    "eventType": "default"
+  },
+  {
+    "kind": "calendar#event",
+    "etag": "\"3288078115932000\"",
+    "id": "0qn2c3ns2bgnr077hf5vsm753l_20220625",
+    "status": "confirmed",
+    "htmlLink": "https://www.google.com/calendar/event?eid=MHFuMmMzbnMyYmducjA3N2hmNXZzbTc1M2xfMjAyMjA2MjUgNW9pdW1hODJkanI2czY5NHNpbDI4bTFiYXNAZw",
+    "created": "2022-02-05T05:30:31.000Z",
+    "updated": "2022-02-05T05:30:57.966Z",
+    "summary": "San Gabriel Mountains Trailbuilders",
+    "description": "<font><p>The San Gabriel Mountains Trailbuilders work the 1st, 3rd, and 5th Saturday of every month, and we work special projects which are not scheduled. Please email us to get on to the mailinglist to keep informed about scheduled and special projects! Email Ben at<a href=\"mailto:bwootenwhite@hotmail.com\">bwootenwhite@hotmail.com</a></p></font>",
+    "creator": {
+      "email": "machikoyasuda@gmail.com"
+    },
+    "organizer": {
+      "email": "5oiuma82djr6s694sil28m1bas@group.calendar.google.com",
+      "displayName": "TrailAngeles Events",
+      "self": true
+    },
+    "start": {
+      "date": "2022-06-25"
+    },
+    "end": {
+      "date": "2022-06-26"
+    },
+    "recurringEventId": "0qn2c3ns2bgnr077hf5vsm753l",
+    "originalStartTime": {
+      "date": "2022-06-25"
+    },
+    "transparency": "transparent",
+    "iCalUID": "0qn2c3ns2bgnr077hf5vsm753l@google.com",
+    "sequence": 0,
+    "reminders": {
+      "useDefault": false
+    },
+    "eventType": "default"
+  },
+  {
+    "kind": "calendar#event",
+    "etag": "\"3288078091130000\"",
+    "id": "594mshiad2ng876696f04ajgtm_20220702",
+    "status": "confirmed",
+    "htmlLink": "https://www.google.com/calendar/event?eid=NTk0bXNoaWFkMm5nODc2Njk2ZjA0YWpndG1fMjAyMjA3MDIgNW9pdW1hODJkanI2czY5NHNpbDI4bTFiYXNAZw",
+    "created": "2022-02-05T05:29:37.000Z",
+    "updated": "2022-02-05T05:30:45.565Z",
+    "summary": "San Gabriel Mountains Trailbuilders",
+    "description": "<font><p>The San Gabriel Mountains Trailbuilders work the 1st, 3rd, and 5th Saturday of every month, and we work special projects which are not scheduled. Please email us to get on to the mailinglist to keep informed about scheduled and special projects! Email Ben at<a href=\"mailto:bwootenwhite@hotmail.com\">bwootenwhite@hotmail.com</a><b></b></p></font>",
+    "creator": {
+      "email": "machikoyasuda@gmail.com"
+    },
+    "organizer": {
+      "email": "5oiuma82djr6s694sil28m1bas@group.calendar.google.com",
+      "displayName": "TrailAngeles Events",
+      "self": true
+    },
+    "start": {
+      "date": "2022-07-02"
+    },
+    "end": {
+      "date": "2022-07-03"
+    },
+    "recurringEventId": "594mshiad2ng876696f04ajgtm",
+    "originalStartTime": {
+      "date": "2022-07-02"
+    },
+    "transparency": "transparent",
+    "iCalUID": "594mshiad2ng876696f04ajgtm@google.com",
+    "sequence": 0,
+    "reminders": {
+      "useDefault": false
+    },
+    "eventType": "default"
+  },
+  {
+    "kind": "calendar#event",
+    "etag": "\"3288078103270000\"",
+    "id": "1cnrei1qrdq2tt21huj3l2103n_20220716",
+    "status": "confirmed",
+    "htmlLink": "https://www.google.com/calendar/event?eid=MWNucmVpMXFyZHEydHQyMWh1ajNsMjEwM25fMjAyMjA3MTYgNW9pdW1hODJkanI2czY5NHNpbDI4bTFiYXNAZw",
+    "created": "2022-02-05T05:29:49.000Z",
+    "updated": "2022-02-05T05:30:51.635Z",
+    "summary": "San Gabriel Mountains Trailbuilders",
+    "description": "<span><br><font><p>The San Gabriel Mountains Trailbuilders work the 1st, 3rd, and 5th Saturday of every month, and we work special projects which are not scheduled. Please email us to get on to the mailinglist to keep informed about scheduled and special projects! Email Ben at<a href=\"mailto:bwootenwhite@hotmail.com\">bwootenwhite@hotmail.com</a><b></b></p></font></span>",
+    "creator": {
+      "email": "machikoyasuda@gmail.com"
+    },
+    "organizer": {
+      "email": "5oiuma82djr6s694sil28m1bas@group.calendar.google.com",
+      "displayName": "TrailAngeles Events",
+      "self": true
+    },
+    "start": {
+      "date": "2022-07-16"
+    },
+    "end": {
+      "date": "2022-07-17"
+    },
+    "recurringEventId": "1cnrei1qrdq2tt21huj3l2103n",
+    "originalStartTime": {
+      "date": "2022-07-16"
+    },
+    "transparency": "transparent",
+    "iCalUID": "1cnrei1qrdq2tt21huj3l2103n@google.com",
+    "sequence": 0,
+    "reminders": {
+      "useDefault": false
+    },
+    "eventType": "default"
+  },
+  {
+    "kind": "calendar#event",
+    "etag": "\"3288078115932000\"",
+    "id": "0qn2c3ns2bgnr077hf5vsm753l_20220730",
+    "status": "confirmed",
+    "htmlLink": "https://www.google.com/calendar/event?eid=MHFuMmMzbnMyYmducjA3N2hmNXZzbTc1M2xfMjAyMjA3MzAgNW9pdW1hODJkanI2czY5NHNpbDI4bTFiYXNAZw",
+    "created": "2022-02-05T05:30:31.000Z",
+    "updated": "2022-02-05T05:30:57.966Z",
+    "summary": "San Gabriel Mountains Trailbuilders",
+    "description": "<font><p>The San Gabriel Mountains Trailbuilders work the 1st, 3rd, and 5th Saturday of every month, and we work special projects which are not scheduled. Please email us to get on to the mailinglist to keep informed about scheduled and special projects! Email Ben at<a href=\"mailto:bwootenwhite@hotmail.com\">bwootenwhite@hotmail.com</a></p></font>",
+    "creator": {
+      "email": "machikoyasuda@gmail.com"
+    },
+    "organizer": {
+      "email": "5oiuma82djr6s694sil28m1bas@group.calendar.google.com",
+      "displayName": "TrailAngeles Events",
+      "self": true
+    },
+    "start": {
+      "date": "2022-07-30"
+    },
+    "end": {
+      "date": "2022-07-31"
+    },
+    "recurringEventId": "0qn2c3ns2bgnr077hf5vsm753l",
+    "originalStartTime": {
+      "date": "2022-07-30"
+    },
+    "transparency": "transparent",
+    "iCalUID": "0qn2c3ns2bgnr077hf5vsm753l@google.com",
+    "sequence": 0,
+    "reminders": {
+      "useDefault": false
+    },
+    "eventType": "default"
+  },
+  {
+    "kind": "calendar#event",
+    "etag": "\"3288078091130000\"",
+    "id": "594mshiad2ng876696f04ajgtm_20220806",
+    "status": "confirmed",
+    "htmlLink": "https://www.google.com/calendar/event?eid=NTk0bXNoaWFkMm5nODc2Njk2ZjA0YWpndG1fMjAyMjA4MDYgNW9pdW1hODJkanI2czY5NHNpbDI4bTFiYXNAZw",
+    "created": "2022-02-05T05:29:37.000Z",
+    "updated": "2022-02-05T05:30:45.565Z",
+    "summary": "San Gabriel Mountains Trailbuilders",
+    "description": "<font><p>The San Gabriel Mountains Trailbuilders work the 1st, 3rd, and 5th Saturday of every month, and we work special projects which are not scheduled. Please email us to get on to the mailinglist to keep informed about scheduled and special projects! Email Ben at<a href=\"mailto:bwootenwhite@hotmail.com\">bwootenwhite@hotmail.com</a><b></b></p></font>",
+    "creator": {
+      "email": "machikoyasuda@gmail.com"
+    },
+    "organizer": {
+      "email": "5oiuma82djr6s694sil28m1bas@group.calendar.google.com",
+      "displayName": "TrailAngeles Events",
+      "self": true
+    },
+    "start": {
+      "date": "2022-08-06"
+    },
+    "end": {
+      "date": "2022-08-07"
+    },
+    "recurringEventId": "594mshiad2ng876696f04ajgtm",
+    "originalStartTime": {
+      "date": "2022-08-06"
+    },
+    "transparency": "transparent",
+    "iCalUID": "594mshiad2ng876696f04ajgtm@google.com",
+    "sequence": 0,
+    "reminders": {
+      "useDefault": false
+    },
+    "eventType": "default"
+  },
+  {
+    "kind": "calendar#event",
+    "etag": "\"3288078103270000\"",
+    "id": "1cnrei1qrdq2tt21huj3l2103n_20220820",
+    "status": "confirmed",
+    "htmlLink": "https://www.google.com/calendar/event?eid=MWNucmVpMXFyZHEydHQyMWh1ajNsMjEwM25fMjAyMjA4MjAgNW9pdW1hODJkanI2czY5NHNpbDI4bTFiYXNAZw",
+    "created": "2022-02-05T05:29:49.000Z",
+    "updated": "2022-02-05T05:30:51.635Z",
+    "summary": "San Gabriel Mountains Trailbuilders",
+    "description": "<span><br><font><p>The San Gabriel Mountains Trailbuilders work the 1st, 3rd, and 5th Saturday of every month, and we work special projects which are not scheduled. Please email us to get on to the mailinglist to keep informed about scheduled and special projects! Email Ben at<a href=\"mailto:bwootenwhite@hotmail.com\">bwootenwhite@hotmail.com</a><b></b></p></font></span>",
+    "creator": {
+      "email": "machikoyasuda@gmail.com"
+    },
+    "organizer": {
+      "email": "5oiuma82djr6s694sil28m1bas@group.calendar.google.com",
+      "displayName": "TrailAngeles Events",
+      "self": true
+    },
+    "start": {
+      "date": "2022-08-20"
+    },
+    "end": {
+      "date": "2022-08-21"
+    },
+    "recurringEventId": "1cnrei1qrdq2tt21huj3l2103n",
+    "originalStartTime": {
+      "date": "2022-08-20"
+    },
+    "transparency": "transparent",
+    "iCalUID": "1cnrei1qrdq2tt21huj3l2103n@google.com",
+    "sequence": 0,
+    "reminders": {
+      "useDefault": false
+    },
+    "eventType": "default"
+  },
+  {
+    "kind": "calendar#event",
+    "etag": "\"3288078115932000\"",
+    "id": "0qn2c3ns2bgnr077hf5vsm753l_20220827",
+    "status": "confirmed",
+    "htmlLink": "https://www.google.com/calendar/event?eid=MHFuMmMzbnMyYmducjA3N2hmNXZzbTc1M2xfMjAyMjA4MjcgNW9pdW1hODJkanI2czY5NHNpbDI4bTFiYXNAZw",
+    "created": "2022-02-05T05:30:31.000Z",
+    "updated": "2022-02-05T05:30:57.966Z",
+    "summary": "San Gabriel Mountains Trailbuilders",
+    "description": "<font><p>The San Gabriel Mountains Trailbuilders work the 1st, 3rd, and 5th Saturday of every month, and we work special projects which are not scheduled. Please email us to get on to the mailinglist to keep informed about scheduled and special projects! Email Ben at<a href=\"mailto:bwootenwhite@hotmail.com\">bwootenwhite@hotmail.com</a></p></font>",
+    "creator": {
+      "email": "machikoyasuda@gmail.com"
+    },
+    "organizer": {
+      "email": "5oiuma82djr6s694sil28m1bas@group.calendar.google.com",
+      "displayName": "TrailAngeles Events",
+      "self": true
+    },
+    "start": {
+      "date": "2022-08-27"
+    },
+    "end": {
+      "date": "2022-08-28"
+    },
+    "recurringEventId": "0qn2c3ns2bgnr077hf5vsm753l",
+    "originalStartTime": {
+      "date": "2022-08-27"
+    },
+    "transparency": "transparent",
+    "iCalUID": "0qn2c3ns2bgnr077hf5vsm753l@google.com",
+    "sequence": 0,
+    "reminders": {
+      "useDefault": false
+    },
+    "eventType": "default"
+  },
+  {
+    "kind": "calendar#event",
+    "etag": "\"3288078091130000\"",
+    "id": "594mshiad2ng876696f04ajgtm_20220903",
+    "status": "confirmed",
+    "htmlLink": "https://www.google.com/calendar/event?eid=NTk0bXNoaWFkMm5nODc2Njk2ZjA0YWpndG1fMjAyMjA5MDMgNW9pdW1hODJkanI2czY5NHNpbDI4bTFiYXNAZw",
+    "created": "2022-02-05T05:29:37.000Z",
+    "updated": "2022-02-05T05:30:45.565Z",
+    "summary": "San Gabriel Mountains Trailbuilders",
+    "description": "<font><p>The San Gabriel Mountains Trailbuilders work the 1st, 3rd, and 5th Saturday of every month, and we work special projects which are not scheduled. Please email us to get on to the mailinglist to keep informed about scheduled and special projects! Email Ben at<a href=\"mailto:bwootenwhite@hotmail.com\">bwootenwhite@hotmail.com</a><b></b></p></font>",
+    "creator": {
+      "email": "machikoyasuda@gmail.com"
+    },
+    "organizer": {
+      "email": "5oiuma82djr6s694sil28m1bas@group.calendar.google.com",
+      "displayName": "TrailAngeles Events",
+      "self": true
+    },
+    "start": {
+      "date": "2022-09-03"
+    },
+    "end": {
+      "date": "2022-09-04"
+    },
+    "recurringEventId": "594mshiad2ng876696f04ajgtm",
+    "originalStartTime": {
+      "date": "2022-09-03"
+    },
+    "transparency": "transparent",
+    "iCalUID": "594mshiad2ng876696f04ajgtm@google.com",
+    "sequence": 0,
+    "reminders": {
+      "useDefault": false
+    },
+    "eventType": "default"
+  },
+  {
+    "kind": "calendar#event",
+    "etag": "\"3288078103270000\"",
+    "id": "1cnrei1qrdq2tt21huj3l2103n_20220917",
+    "status": "confirmed",
+    "htmlLink": "https://www.google.com/calendar/event?eid=MWNucmVpMXFyZHEydHQyMWh1ajNsMjEwM25fMjAyMjA5MTcgNW9pdW1hODJkanI2czY5NHNpbDI4bTFiYXNAZw",
+    "created": "2022-02-05T05:29:49.000Z",
+    "updated": "2022-02-05T05:30:51.635Z",
+    "summary": "San Gabriel Mountains Trailbuilders",
+    "description": "<span><br><font><p>The San Gabriel Mountains Trailbuilders work the 1st, 3rd, and 5th Saturday of every month, and we work special projects which are not scheduled. Please email us to get on to the mailinglist to keep informed about scheduled and special projects! Email Ben at<a href=\"mailto:bwootenwhite@hotmail.com\">bwootenwhite@hotmail.com</a><b></b></p></font></span>",
+    "creator": {
+      "email": "machikoyasuda@gmail.com"
+    },
+    "organizer": {
+      "email": "5oiuma82djr6s694sil28m1bas@group.calendar.google.com",
+      "displayName": "TrailAngeles Events",
+      "self": true
+    },
+    "start": {
+      "date": "2022-09-17"
+    },
+    "end": {
+      "date": "2022-09-18"
+    },
+    "recurringEventId": "1cnrei1qrdq2tt21huj3l2103n",
+    "originalStartTime": {
+      "date": "2022-09-17"
+    },
+    "transparency": "transparent",
+    "iCalUID": "1cnrei1qrdq2tt21huj3l2103n@google.com",
+    "sequence": 0,
+    "reminders": {
+      "useDefault": false
+    },
+    "eventType": "default"
+  },
+  {
+    "kind": "calendar#event",
+    "etag": "\"3288078115932000\"",
+    "id": "0qn2c3ns2bgnr077hf5vsm753l_20220924",
+    "status": "confirmed",
+    "htmlLink": "https://www.google.com/calendar/event?eid=MHFuMmMzbnMyYmducjA3N2hmNXZzbTc1M2xfMjAyMjA5MjQgNW9pdW1hODJkanI2czY5NHNpbDI4bTFiYXNAZw",
+    "created": "2022-02-05T05:30:31.000Z",
+    "updated": "2022-02-05T05:30:57.966Z",
+    "summary": "San Gabriel Mountains Trailbuilders",
+    "description": "<font><p>The San Gabriel Mountains Trailbuilders work the 1st, 3rd, and 5th Saturday of every month, and we work special projects which are not scheduled. Please email us to get on to the mailinglist to keep informed about scheduled and special projects! Email Ben at<a href=\"mailto:bwootenwhite@hotmail.com\">bwootenwhite@hotmail.com</a></p></font>",
+    "creator": {
+      "email": "machikoyasuda@gmail.com"
+    },
+    "organizer": {
+      "email": "5oiuma82djr6s694sil28m1bas@group.calendar.google.com",
+      "displayName": "TrailAngeles Events",
+      "self": true
+    },
+    "start": {
+      "date": "2022-09-24"
+    },
+    "end": {
+      "date": "2022-09-25"
+    },
+    "recurringEventId": "0qn2c3ns2bgnr077hf5vsm753l",
+    "originalStartTime": {
+      "date": "2022-09-24"
+    },
+    "transparency": "transparent",
+    "iCalUID": "0qn2c3ns2bgnr077hf5vsm753l@google.com",
+    "sequence": 0,
+    "reminders": {
+      "useDefault": false
+    },
+    "eventType": "default"
+  },
+  {
+    "kind": "calendar#event",
+    "etag": "\"3288078091130000\"",
+    "id": "594mshiad2ng876696f04ajgtm_20221001",
+    "status": "confirmed",
+    "htmlLink": "https://www.google.com/calendar/event?eid=NTk0bXNoaWFkMm5nODc2Njk2ZjA0YWpndG1fMjAyMjEwMDEgNW9pdW1hODJkanI2czY5NHNpbDI4bTFiYXNAZw",
+    "created": "2022-02-05T05:29:37.000Z",
+    "updated": "2022-02-05T05:30:45.565Z",
+    "summary": "San Gabriel Mountains Trailbuilders",
+    "description": "<font><p>The San Gabriel Mountains Trailbuilders work the 1st, 3rd, and 5th Saturday of every month, and we work special projects which are not scheduled. Please email us to get on to the mailinglist to keep informed about scheduled and special projects! Email Ben at<a href=\"mailto:bwootenwhite@hotmail.com\">bwootenwhite@hotmail.com</a><b></b></p></font>",
+    "creator": {
+      "email": "machikoyasuda@gmail.com"
+    },
+    "organizer": {
+      "email": "5oiuma82djr6s694sil28m1bas@group.calendar.google.com",
+      "displayName": "TrailAngeles Events",
+      "self": true
+    },
+    "start": {
+      "date": "2022-10-01"
+    },
+    "end": {
+      "date": "2022-10-02"
+    },
+    "recurringEventId": "594mshiad2ng876696f04ajgtm",
+    "originalStartTime": {
+      "date": "2022-10-01"
+    },
+    "transparency": "transparent",
+    "iCalUID": "594mshiad2ng876696f04ajgtm@google.com",
+    "sequence": 0,
+    "reminders": {
+      "useDefault": false
+    },
+    "eventType": "default"
+  },
+  {
+    "kind": "calendar#event",
+    "etag": "\"3288078103270000\"",
+    "id": "1cnrei1qrdq2tt21huj3l2103n_20221015",
+    "status": "confirmed",
+    "htmlLink": "https://www.google.com/calendar/event?eid=MWNucmVpMXFyZHEydHQyMWh1ajNsMjEwM25fMjAyMjEwMTUgNW9pdW1hODJkanI2czY5NHNpbDI4bTFiYXNAZw",
+    "created": "2022-02-05T05:29:49.000Z",
+    "updated": "2022-02-05T05:30:51.635Z",
+    "summary": "San Gabriel Mountains Trailbuilders",
+    "description": "<span><br><font><p>The San Gabriel Mountains Trailbuilders work the 1st, 3rd, and 5th Saturday of every month, and we work special projects which are not scheduled. Please email us to get on to the mailinglist to keep informed about scheduled and special projects! Email Ben at<a href=\"mailto:bwootenwhite@hotmail.com\">bwootenwhite@hotmail.com</a><b></b></p></font></span>",
+    "creator": {
+      "email": "machikoyasuda@gmail.com"
+    },
+    "organizer": {
+      "email": "5oiuma82djr6s694sil28m1bas@group.calendar.google.com",
+      "displayName": "TrailAngeles Events",
+      "self": true
+    },
+    "start": {
+      "date": "2022-10-15"
+    },
+    "end": {
+      "date": "2022-10-16"
+    },
+    "recurringEventId": "1cnrei1qrdq2tt21huj3l2103n",
+    "originalStartTime": {
+      "date": "2022-10-15"
+    },
+    "transparency": "transparent",
+    "iCalUID": "1cnrei1qrdq2tt21huj3l2103n@google.com",
+    "sequence": 0,
+    "reminders": {
+      "useDefault": false
+    },
+    "eventType": "default"
+  },
+  {
+    "kind": "calendar#event",
+    "etag": "\"3288078115932000\"",
+    "id": "0qn2c3ns2bgnr077hf5vsm753l_20221029",
+    "status": "confirmed",
+    "htmlLink": "https://www.google.com/calendar/event?eid=MHFuMmMzbnMyYmducjA3N2hmNXZzbTc1M2xfMjAyMjEwMjkgNW9pdW1hODJkanI2czY5NHNpbDI4bTFiYXNAZw",
+    "created": "2022-02-05T05:30:31.000Z",
+    "updated": "2022-02-05T05:30:57.966Z",
+    "summary": "San Gabriel Mountains Trailbuilders",
+    "description": "<font><p>The San Gabriel Mountains Trailbuilders work the 1st, 3rd, and 5th Saturday of every month, and we work special projects which are not scheduled. Please email us to get on to the mailinglist to keep informed about scheduled and special projects! Email Ben at<a href=\"mailto:bwootenwhite@hotmail.com\">bwootenwhite@hotmail.com</a></p></font>",
+    "creator": {
+      "email": "machikoyasuda@gmail.com"
+    },
+    "organizer": {
+      "email": "5oiuma82djr6s694sil28m1bas@group.calendar.google.com",
+      "displayName": "TrailAngeles Events",
+      "self": true
+    },
+    "start": {
+      "date": "2022-10-29"
+    },
+    "end": {
+      "date": "2022-10-30"
+    },
+    "recurringEventId": "0qn2c3ns2bgnr077hf5vsm753l",
+    "originalStartTime": {
+      "date": "2022-10-29"
+    },
+    "transparency": "transparent",
+    "iCalUID": "0qn2c3ns2bgnr077hf5vsm753l@google.com",
+    "sequence": 0,
+    "reminders": {
+      "useDefault": false
+    },
+    "eventType": "default"
+  },
+  {
+    "kind": "calendar#event",
+    "etag": "\"3288078091130000\"",
+    "id": "594mshiad2ng876696f04ajgtm_20221105",
+    "status": "confirmed",
+    "htmlLink": "https://www.google.com/calendar/event?eid=NTk0bXNoaWFkMm5nODc2Njk2ZjA0YWpndG1fMjAyMjExMDUgNW9pdW1hODJkanI2czY5NHNpbDI4bTFiYXNAZw",
+    "created": "2022-02-05T05:29:37.000Z",
+    "updated": "2022-02-05T05:30:45.565Z",
+    "summary": "San Gabriel Mountains Trailbuilders",
+    "description": "<font><p>The San Gabriel Mountains Trailbuilders work the 1st, 3rd, and 5th Saturday of every month, and we work special projects which are not scheduled. Please email us to get on to the mailinglist to keep informed about scheduled and special projects! Email Ben at<a href=\"mailto:bwootenwhite@hotmail.com\">bwootenwhite@hotmail.com</a><b></b></p></font>",
+    "creator": {
+      "email": "machikoyasuda@gmail.com"
+    },
+    "organizer": {
+      "email": "5oiuma82djr6s694sil28m1bas@group.calendar.google.com",
+      "displayName": "TrailAngeles Events",
+      "self": true
+    },
+    "start": {
+      "date": "2022-11-05"
+    },
+    "end": {
+      "date": "2022-11-06"
+    },
+    "recurringEventId": "594mshiad2ng876696f04ajgtm",
+    "originalStartTime": {
+      "date": "2022-11-05"
+    },
+    "transparency": "transparent",
+    "iCalUID": "594mshiad2ng876696f04ajgtm@google.com",
+    "sequence": 0,
+    "reminders": {
+      "useDefault": false
+    },
+    "eventType": "default"
+  },
+  {
+    "kind": "calendar#event",
+    "etag": "\"3288078103270000\"",
+    "id": "1cnrei1qrdq2tt21huj3l2103n_20221119",
+    "status": "confirmed",
+    "htmlLink": "https://www.google.com/calendar/event?eid=MWNucmVpMXFyZHEydHQyMWh1ajNsMjEwM25fMjAyMjExMTkgNW9pdW1hODJkanI2czY5NHNpbDI4bTFiYXNAZw",
+    "created": "2022-02-05T05:29:49.000Z",
+    "updated": "2022-02-05T05:30:51.635Z",
+    "summary": "San Gabriel Mountains Trailbuilders",
+    "description": "<span><br><font><p>The San Gabriel Mountains Trailbuilders work the 1st, 3rd, and 5th Saturday of every month, and we work special projects which are not scheduled. Please email us to get on to the mailinglist to keep informed about scheduled and special projects! Email Ben at<a href=\"mailto:bwootenwhite@hotmail.com\">bwootenwhite@hotmail.com</a><b></b></p></font></span>",
+    "creator": {
+      "email": "machikoyasuda@gmail.com"
+    },
+    "organizer": {
+      "email": "5oiuma82djr6s694sil28m1bas@group.calendar.google.com",
+      "displayName": "TrailAngeles Events",
+      "self": true
+    },
+    "start": {
+      "date": "2022-11-19"
+    },
+    "end": {
+      "date": "2022-11-20"
+    },
+    "recurringEventId": "1cnrei1qrdq2tt21huj3l2103n",
+    "originalStartTime": {
+      "date": "2022-11-19"
+    },
+    "transparency": "transparent",
+    "iCalUID": "1cnrei1qrdq2tt21huj3l2103n@google.com",
+    "sequence": 0,
+    "reminders": {
+      "useDefault": false
+    },
+    "eventType": "default"
+  },
+  {
+    "kind": "calendar#event",
+    "etag": "\"3288078115932000\"",
+    "id": "0qn2c3ns2bgnr077hf5vsm753l_20221126",
+    "status": "confirmed",
+    "htmlLink": "https://www.google.com/calendar/event?eid=MHFuMmMzbnMyYmducjA3N2hmNXZzbTc1M2xfMjAyMjExMjYgNW9pdW1hODJkanI2czY5NHNpbDI4bTFiYXNAZw",
+    "created": "2022-02-05T05:30:31.000Z",
+    "updated": "2022-02-05T05:30:57.966Z",
+    "summary": "San Gabriel Mountains Trailbuilders",
+    "description": "<font><p>The San Gabriel Mountains Trailbuilders work the 1st, 3rd, and 5th Saturday of every month, and we work special projects which are not scheduled. Please email us to get on to the mailinglist to keep informed about scheduled and special projects! Email Ben at<a href=\"mailto:bwootenwhite@hotmail.com\">bwootenwhite@hotmail.com</a></p></font>",
+    "creator": {
+      "email": "machikoyasuda@gmail.com"
+    },
+    "organizer": {
+      "email": "5oiuma82djr6s694sil28m1bas@group.calendar.google.com",
+      "displayName": "TrailAngeles Events",
+      "self": true
+    },
+    "start": {
+      "date": "2022-11-26"
+    },
+    "end": {
+      "date": "2022-11-27"
+    },
+    "recurringEventId": "0qn2c3ns2bgnr077hf5vsm753l",
+    "originalStartTime": {
+      "date": "2022-11-26"
+    },
+    "transparency": "transparent",
+    "iCalUID": "0qn2c3ns2bgnr077hf5vsm753l@google.com",
+    "sequence": 0,
+    "reminders": {
+      "useDefault": false
+    },
+    "eventType": "default"
+  },
+  {
+    "kind": "calendar#event",
+    "etag": "\"3288078091130000\"",
+    "id": "594mshiad2ng876696f04ajgtm_20221203",
+    "status": "confirmed",
+    "htmlLink": "https://www.google.com/calendar/event?eid=NTk0bXNoaWFkMm5nODc2Njk2ZjA0YWpndG1fMjAyMjEyMDMgNW9pdW1hODJkanI2czY5NHNpbDI4bTFiYXNAZw",
+    "created": "2022-02-05T05:29:37.000Z",
+    "updated": "2022-02-05T05:30:45.565Z",
+    "summary": "San Gabriel Mountains Trailbuilders",
+    "description": "<font><p>The San Gabriel Mountains Trailbuilders work the 1st, 3rd, and 5th Saturday of every month, and we work special projects which are not scheduled. Please email us to get on to the mailinglist to keep informed about scheduled and special projects! Email Ben at<a href=\"mailto:bwootenwhite@hotmail.com\">bwootenwhite@hotmail.com</a><b></b></p></font>",
+    "creator": {
+      "email": "machikoyasuda@gmail.com"
+    },
+    "organizer": {
+      "email": "5oiuma82djr6s694sil28m1bas@group.calendar.google.com",
+      "displayName": "TrailAngeles Events",
+      "self": true
+    },
+    "start": {
+      "date": "2022-12-03"
+    },
+    "end": {
+      "date": "2022-12-04"
+    },
+    "recurringEventId": "594mshiad2ng876696f04ajgtm",
+    "originalStartTime": {
+      "date": "2022-12-03"
+    },
+    "transparency": "transparent",
+    "iCalUID": "594mshiad2ng876696f04ajgtm@google.com",
+    "sequence": 0,
+    "reminders": {
+      "useDefault": false
+    },
+    "eventType": "default"
+  },
+  {
+    "kind": "calendar#event",
+    "etag": "\"3288078103270000\"",
+    "id": "1cnrei1qrdq2tt21huj3l2103n_20221217",
+    "status": "confirmed",
+    "htmlLink": "https://www.google.com/calendar/event?eid=MWNucmVpMXFyZHEydHQyMWh1ajNsMjEwM25fMjAyMjEyMTcgNW9pdW1hODJkanI2czY5NHNpbDI4bTFiYXNAZw",
+    "created": "2022-02-05T05:29:49.000Z",
+    "updated": "2022-02-05T05:30:51.635Z",
+    "summary": "San Gabriel Mountains Trailbuilders",
+    "description": "<span><br><font><p>The San Gabriel Mountains Trailbuilders work the 1st, 3rd, and 5th Saturday of every month, and we work special projects which are not scheduled. Please email us to get on to the mailinglist to keep informed about scheduled and special projects! Email Ben at<a href=\"mailto:bwootenwhite@hotmail.com\">bwootenwhite@hotmail.com</a><b></b></p></font></span>",
+    "creator": {
+      "email": "machikoyasuda@gmail.com"
+    },
+    "organizer": {
+      "email": "5oiuma82djr6s694sil28m1bas@group.calendar.google.com",
+      "displayName": "TrailAngeles Events",
+      "self": true
+    },
+    "start": {
+      "date": "2022-12-17"
+    },
+    "end": {
+      "date": "2022-12-18"
+    },
+    "recurringEventId": "1cnrei1qrdq2tt21huj3l2103n",
+    "originalStartTime": {
+      "date": "2022-12-17"
+    },
+    "transparency": "transparent",
+    "iCalUID": "1cnrei1qrdq2tt21huj3l2103n@google.com",
+    "sequence": 0,
+    "reminders": {
+      "useDefault": false
+    },
+    "eventType": "default"
+  },
+  {
+    "kind": "calendar#event",
+    "etag": "\"3288078115932000\"",
+    "id": "0qn2c3ns2bgnr077hf5vsm753l_20221231",
+    "status": "confirmed",
+    "htmlLink": "https://www.google.com/calendar/event?eid=MHFuMmMzbnMyYmducjA3N2hmNXZzbTc1M2xfMjAyMjEyMzEgNW9pdW1hODJkanI2czY5NHNpbDI4bTFiYXNAZw",
+    "created": "2022-02-05T05:30:31.000Z",
+    "updated": "2022-02-05T05:30:57.966Z",
+    "summary": "San Gabriel Mountains Trailbuilders",
+    "description": "<font><p>The San Gabriel Mountains Trailbuilders work the 1st, 3rd, and 5th Saturday of every month, and we work special projects which are not scheduled. Please email us to get on to the mailinglist to keep informed about scheduled and special projects! Email Ben at<a href=\"mailto:bwootenwhite@hotmail.com\">bwootenwhite@hotmail.com</a></p></font>",
+    "creator": {
+      "email": "machikoyasuda@gmail.com"
+    },
+    "organizer": {
+      "email": "5oiuma82djr6s694sil28m1bas@group.calendar.google.com",
+      "displayName": "TrailAngeles Events",
+      "self": true
+    },
+    "start": {
+      "date": "2022-12-31"
+    },
+    "end": {
+      "date": "2023-01-01"
+    },
+    "recurringEventId": "0qn2c3ns2bgnr077hf5vsm753l",
+    "originalStartTime": {
+      "date": "2022-12-31"
+    },
+    "transparency": "transparent",
+    "iCalUID": "0qn2c3ns2bgnr077hf5vsm753l@google.com",
+    "sequence": 0,
+    "reminders": {
+      "useDefault": false
+    },
+    "eventType": "default"
+  },
+  {
+    "kind": "calendar#event",
+    "etag": "\"3288078091130000\"",
+    "id": "594mshiad2ng876696f04ajgtm_20230107",
+    "status": "confirmed",
+    "htmlLink": "https://www.google.com/calendar/event?eid=NTk0bXNoaWFkMm5nODc2Njk2ZjA0YWpndG1fMjAyMzAxMDcgNW9pdW1hODJkanI2czY5NHNpbDI4bTFiYXNAZw",
+    "created": "2022-02-05T05:29:37.000Z",
+    "updated": "2022-02-05T05:30:45.565Z",
+    "summary": "San Gabriel Mountains Trailbuilders",
+    "description": "<font><p>The San Gabriel Mountains Trailbuilders work the 1st, 3rd, and 5th Saturday of every month, and we work special projects which are not scheduled. Please email us to get on to the mailinglist to keep informed about scheduled and special projects! Email Ben at<a href=\"mailto:bwootenwhite@hotmail.com\">bwootenwhite@hotmail.com</a><b></b></p></font>",
+    "creator": {
+      "email": "machikoyasuda@gmail.com"
+    },
+    "organizer": {
+      "email": "5oiuma82djr6s694sil28m1bas@group.calendar.google.com",
+      "displayName": "TrailAngeles Events",
+      "self": true
+    },
+    "start": {
+      "date": "2023-01-07"
+    },
+    "end": {
+      "date": "2023-01-08"
+    },
+    "recurringEventId": "594mshiad2ng876696f04ajgtm",
+    "originalStartTime": {
+      "date": "2023-01-07"
+    },
+    "transparency": "transparent",
+    "iCalUID": "594mshiad2ng876696f04ajgtm@google.com",
+    "sequence": 0,
+    "reminders": {
+      "useDefault": false
+    },
+    "eventType": "default"
+  },
+  {
+    "kind": "calendar#event",
+    "etag": "\"3288078103270000\"",
+    "id": "1cnrei1qrdq2tt21huj3l2103n_20230121",
+    "status": "confirmed",
+    "htmlLink": "https://www.google.com/calendar/event?eid=MWNucmVpMXFyZHEydHQyMWh1ajNsMjEwM25fMjAyMzAxMjEgNW9pdW1hODJkanI2czY5NHNpbDI4bTFiYXNAZw",
+    "created": "2022-02-05T05:29:49.000Z",
+    "updated": "2022-02-05T05:30:51.635Z",
+    "summary": "San Gabriel Mountains Trailbuilders",
+    "description": "<span><br><font><p>The San Gabriel Mountains Trailbuilders work the 1st, 3rd, and 5th Saturday of every month, and we work special projects which are not scheduled. Please email us to get on to the mailinglist to keep informed about scheduled and special projects! Email Ben at<a href=\"mailto:bwootenwhite@hotmail.com\">bwootenwhite@hotmail.com</a><b></b></p></font></span>",
+    "creator": {
+      "email": "machikoyasuda@gmail.com"
+    },
+    "organizer": {
+      "email": "5oiuma82djr6s694sil28m1bas@group.calendar.google.com",
+      "displayName": "TrailAngeles Events",
+      "self": true
+    },
+    "start": {
+      "date": "2023-01-21"
+    },
+    "end": {
+      "date": "2023-01-22"
+    },
+    "recurringEventId": "1cnrei1qrdq2tt21huj3l2103n",
+    "originalStartTime": {
+      "date": "2023-01-21"
+    },
+    "transparency": "transparent",
+    "iCalUID": "1cnrei1qrdq2tt21huj3l2103n@google.com",
+    "sequence": 0,
+    "reminders": {
+      "useDefault": false
+    },
+    "eventType": "default"
+  },
+  {
+    "kind": "calendar#event",
+    "etag": "\"3288078115932000\"",
+    "id": "0qn2c3ns2bgnr077hf5vsm753l_20230128",
+    "status": "confirmed",
+    "htmlLink": "https://www.google.com/calendar/event?eid=MHFuMmMzbnMyYmducjA3N2hmNXZzbTc1M2xfMjAyMzAxMjggNW9pdW1hODJkanI2czY5NHNpbDI4bTFiYXNAZw",
+    "created": "2022-02-05T05:30:31.000Z",
+    "updated": "2022-02-05T05:30:57.966Z",
+    "summary": "San Gabriel Mountains Trailbuilders",
+    "description": "<font><p>The San Gabriel Mountains Trailbuilders work the 1st, 3rd, and 5th Saturday of every month, and we work special projects which are not scheduled. Please email us to get on to the mailinglist to keep informed about scheduled and special projects! Email Ben at<a href=\"mailto:bwootenwhite@hotmail.com\">bwootenwhite@hotmail.com</a></p></font>",
+    "creator": {
+      "email": "machikoyasuda@gmail.com"
+    },
+    "organizer": {
+      "email": "5oiuma82djr6s694sil28m1bas@group.calendar.google.com",
+      "displayName": "TrailAngeles Events",
+      "self": true
+    },
+    "start": {
+      "date": "2023-01-28"
+    },
+    "end": {
+      "date": "2023-01-29"
+    },
+    "recurringEventId": "0qn2c3ns2bgnr077hf5vsm753l",
+    "originalStartTime": {
+      "date": "2023-01-28"
+    },
+    "transparency": "transparent",
+    "iCalUID": "0qn2c3ns2bgnr077hf5vsm753l@google.com",
+    "sequence": 0,
+    "reminders": {
+      "useDefault": false
+    },
+    "eventType": "default"
+  },
+  {
+    "kind": "calendar#event",
+    "etag": "\"3288078091130000\"",
+    "id": "594mshiad2ng876696f04ajgtm_20230204",
+    "status": "confirmed",
+    "htmlLink": "https://www.google.com/calendar/event?eid=NTk0bXNoaWFkMm5nODc2Njk2ZjA0YWpndG1fMjAyMzAyMDQgNW9pdW1hODJkanI2czY5NHNpbDI4bTFiYXNAZw",
+    "created": "2022-02-05T05:29:37.000Z",
+    "updated": "2022-02-05T05:30:45.565Z",
+    "summary": "San Gabriel Mountains Trailbuilders",
+    "description": "<font><p>The San Gabriel Mountains Trailbuilders work the 1st, 3rd, and 5th Saturday of every month, and we work special projects which are not scheduled. Please email us to get on to the mailinglist to keep informed about scheduled and special projects! Email Ben at<a href=\"mailto:bwootenwhite@hotmail.com\">bwootenwhite@hotmail.com</a><b></b></p></font>",
+    "creator": {
+      "email": "machikoyasuda@gmail.com"
+    },
+    "organizer": {
+      "email": "5oiuma82djr6s694sil28m1bas@group.calendar.google.com",
+      "displayName": "TrailAngeles Events",
+      "self": true
+    },
+    "start": {
+      "date": "2023-02-04"
+    },
+    "end": {
+      "date": "2023-02-05"
+    },
+    "recurringEventId": "594mshiad2ng876696f04ajgtm",
+    "originalStartTime": {
+      "date": "2023-02-04"
+    },
+    "transparency": "transparent",
+    "iCalUID": "594mshiad2ng876696f04ajgtm@google.com",
+    "sequence": 0,
+    "reminders": {
+      "useDefault": false
+    },
+    "eventType": "default"
+  },
+  {
+    "kind": "calendar#event",
+    "etag": "\"3288078103270000\"",
+    "id": "1cnrei1qrdq2tt21huj3l2103n_20230218",
+    "status": "confirmed",
+    "htmlLink": "https://www.google.com/calendar/event?eid=MWNucmVpMXFyZHEydHQyMWh1ajNsMjEwM25fMjAyMzAyMTggNW9pdW1hODJkanI2czY5NHNpbDI4bTFiYXNAZw",
+    "created": "2022-02-05T05:29:49.000Z",
+    "updated": "2022-02-05T05:30:51.635Z",
+    "summary": "San Gabriel Mountains Trailbuilders",
+    "description": "<span><br><font><p>The San Gabriel Mountains Trailbuilders work the 1st, 3rd, and 5th Saturday of every month, and we work special projects which are not scheduled. Please email us to get on to the mailinglist to keep informed about scheduled and special projects! Email Ben at<a href=\"mailto:bwootenwhite@hotmail.com\">bwootenwhite@hotmail.com</a><b></b></p></font></span>",
+    "creator": {
+      "email": "machikoyasuda@gmail.com"
+    },
+    "organizer": {
+      "email": "5oiuma82djr6s694sil28m1bas@group.calendar.google.com",
+      "displayName": "TrailAngeles Events",
+      "self": true
+    },
+    "start": {
+      "date": "2023-02-18"
+    },
+    "end": {
+      "date": "2023-02-19"
+    },
+    "recurringEventId": "1cnrei1qrdq2tt21huj3l2103n",
+    "originalStartTime": {
+      "date": "2023-02-18"
+    },
+    "transparency": "transparent",
+    "iCalUID": "1cnrei1qrdq2tt21huj3l2103n@google.com",
+    "sequence": 0,
+    "reminders": {
+      "useDefault": false
+    },
+    "eventType": "default"
+  },
+  {
+    "kind": "calendar#event",
+    "etag": "\"3288078115932000\"",
+    "id": "0qn2c3ns2bgnr077hf5vsm753l_20230225",
+    "status": "confirmed",
+    "htmlLink": "https://www.google.com/calendar/event?eid=MHFuMmMzbnMyYmducjA3N2hmNXZzbTc1M2xfMjAyMzAyMjUgNW9pdW1hODJkanI2czY5NHNpbDI4bTFiYXNAZw",
+    "created": "2022-02-05T05:30:31.000Z",
+    "updated": "2022-02-05T05:30:57.966Z",
+    "summary": "San Gabriel Mountains Trailbuilders",
+    "description": "<font><p>The San Gabriel Mountains Trailbuilders work the 1st, 3rd, and 5th Saturday of every month, and we work special projects which are not scheduled. Please email us to get on to the mailinglist to keep informed about scheduled and special projects! Email Ben at<a href=\"mailto:bwootenwhite@hotmail.com\">bwootenwhite@hotmail.com</a></p></font>",
+    "creator": {
+      "email": "machikoyasuda@gmail.com"
+    },
+    "organizer": {
+      "email": "5oiuma82djr6s694sil28m1bas@group.calendar.google.com",
+      "displayName": "TrailAngeles Events",
+      "self": true
+    },
+    "start": {
+      "date": "2023-02-25"
+    },
+    "end": {
+      "date": "2023-02-26"
+    },
+    "recurringEventId": "0qn2c3ns2bgnr077hf5vsm753l",
+    "originalStartTime": {
+      "date": "2023-02-25"
+    },
+    "transparency": "transparent",
+    "iCalUID": "0qn2c3ns2bgnr077hf5vsm753l@google.com",
+    "sequence": 0,
+    "reminders": {
+      "useDefault": false
+    },
+    "eventType": "default"
+  },
+  {
+    "kind": "calendar#event",
+    "etag": "\"3288078091130000\"",
+    "id": "594mshiad2ng876696f04ajgtm_20230304",
+    "status": "confirmed",
+    "htmlLink": "https://www.google.com/calendar/event?eid=NTk0bXNoaWFkMm5nODc2Njk2ZjA0YWpndG1fMjAyMzAzMDQgNW9pdW1hODJkanI2czY5NHNpbDI4bTFiYXNAZw",
+    "created": "2022-02-05T05:29:37.000Z",
+    "updated": "2022-02-05T05:30:45.565Z",
+    "summary": "San Gabriel Mountains Trailbuilders",
+    "description": "<font><p>The San Gabriel Mountains Trailbuilders work the 1st, 3rd, and 5th Saturday of every month, and we work special projects which are not scheduled. Please email us to get on to the mailinglist to keep informed about scheduled and special projects! Email Ben at<a href=\"mailto:bwootenwhite@hotmail.com\">bwootenwhite@hotmail.com</a><b></b></p></font>",
+    "creator": {
+      "email": "machikoyasuda@gmail.com"
+    },
+    "organizer": {
+      "email": "5oiuma82djr6s694sil28m1bas@group.calendar.google.com",
+      "displayName": "TrailAngeles Events",
+      "self": true
+    },
+    "start": {
+      "date": "2023-03-04"
+    },
+    "end": {
+      "date": "2023-03-05"
+    },
+    "recurringEventId": "594mshiad2ng876696f04ajgtm",
+    "originalStartTime": {
+      "date": "2023-03-04"
+    },
+    "transparency": "transparent",
+    "iCalUID": "594mshiad2ng876696f04ajgtm@google.com",
+    "sequence": 0,
+    "reminders": {
+      "useDefault": false
+    },
+    "eventType": "default"
+  },
+  {
+    "kind": "calendar#event",
+    "etag": "\"3288078103270000\"",
+    "id": "1cnrei1qrdq2tt21huj3l2103n_20230318",
+    "status": "confirmed",
+    "htmlLink": "https://www.google.com/calendar/event?eid=MWNucmVpMXFyZHEydHQyMWh1ajNsMjEwM25fMjAyMzAzMTggNW9pdW1hODJkanI2czY5NHNpbDI4bTFiYXNAZw",
+    "created": "2022-02-05T05:29:49.000Z",
+    "updated": "2022-02-05T05:30:51.635Z",
+    "summary": "San Gabriel Mountains Trailbuilders",
+    "description": "<span><br><font><p>The San Gabriel Mountains Trailbuilders work the 1st, 3rd, and 5th Saturday of every month, and we work special projects which are not scheduled. Please email us to get on to the mailinglist to keep informed about scheduled and special projects! Email Ben at<a href=\"mailto:bwootenwhite@hotmail.com\">bwootenwhite@hotmail.com</a><b></b></p></font></span>",
+    "creator": {
+      "email": "machikoyasuda@gmail.com"
+    },
+    "organizer": {
+      "email": "5oiuma82djr6s694sil28m1bas@group.calendar.google.com",
+      "displayName": "TrailAngeles Events",
+      "self": true
+    },
+    "start": {
+      "date": "2023-03-18"
+    },
+    "end": {
+      "date": "2023-03-19"
+    },
+    "recurringEventId": "1cnrei1qrdq2tt21huj3l2103n",
+    "originalStartTime": {
+      "date": "2023-03-18"
+    },
+    "transparency": "transparent",
+    "iCalUID": "1cnrei1qrdq2tt21huj3l2103n@google.com",
+    "sequence": 0,
+    "reminders": {
+      "useDefault": false
+    },
+    "eventType": "default"
+  },
+  {
+    "kind": "calendar#event",
+    "etag": "\"3288078115932000\"",
+    "id": "0qn2c3ns2bgnr077hf5vsm753l_20230325",
+    "status": "confirmed",
+    "htmlLink": "https://www.google.com/calendar/event?eid=MHFuMmMzbnMyYmducjA3N2hmNXZzbTc1M2xfMjAyMzAzMjUgNW9pdW1hODJkanI2czY5NHNpbDI4bTFiYXNAZw",
+    "created": "2022-02-05T05:30:31.000Z",
+    "updated": "2022-02-05T05:30:57.966Z",
+    "summary": "San Gabriel Mountains Trailbuilders",
+    "description": "<font><p>The San Gabriel Mountains Trailbuilders work the 1st, 3rd, and 5th Saturday of every month, and we work special projects which are not scheduled. Please email us to get on to the mailinglist to keep informed about scheduled and special projects! Email Ben at<a href=\"mailto:bwootenwhite@hotmail.com\">bwootenwhite@hotmail.com</a></p></font>",
+    "creator": {
+      "email": "machikoyasuda@gmail.com"
+    },
+    "organizer": {
+      "email": "5oiuma82djr6s694sil28m1bas@group.calendar.google.com",
+      "displayName": "TrailAngeles Events",
+      "self": true
+    },
+    "start": {
+      "date": "2023-03-25"
+    },
+    "end": {
+      "date": "2023-03-26"
+    },
+    "recurringEventId": "0qn2c3ns2bgnr077hf5vsm753l",
+    "originalStartTime": {
+      "date": "2023-03-25"
+    },
+    "transparency": "transparent",
+    "iCalUID": "0qn2c3ns2bgnr077hf5vsm753l@google.com",
+    "sequence": 0,
+    "reminders": {
+      "useDefault": false
+    },
+    "eventType": "default"
+  },
+  {
+    "kind": "calendar#event",
+    "etag": "\"3288078091130000\"",
+    "id": "594mshiad2ng876696f04ajgtm_20230401",
+    "status": "confirmed",
+    "htmlLink": "https://www.google.com/calendar/event?eid=NTk0bXNoaWFkMm5nODc2Njk2ZjA0YWpndG1fMjAyMzA0MDEgNW9pdW1hODJkanI2czY5NHNpbDI4bTFiYXNAZw",
+    "created": "2022-02-05T05:29:37.000Z",
+    "updated": "2022-02-05T05:30:45.565Z",
+    "summary": "San Gabriel Mountains Trailbuilders",
+    "description": "<font><p>The San Gabriel Mountains Trailbuilders work the 1st, 3rd, and 5th Saturday of every month, and we work special projects which are not scheduled. Please email us to get on to the mailinglist to keep informed about scheduled and special projects! Email Ben at<a href=\"mailto:bwootenwhite@hotmail.com\">bwootenwhite@hotmail.com</a><b></b></p></font>",
+    "creator": {
+      "email": "machikoyasuda@gmail.com"
+    },
+    "organizer": {
+      "email": "5oiuma82djr6s694sil28m1bas@group.calendar.google.com",
+      "displayName": "TrailAngeles Events",
+      "self": true
+    },
+    "start": {
+      "date": "2023-04-01"
+    },
+    "end": {
+      "date": "2023-04-02"
+    },
+    "recurringEventId": "594mshiad2ng876696f04ajgtm",
+    "originalStartTime": {
+      "date": "2023-04-01"
+    },
+    "transparency": "transparent",
+    "iCalUID": "594mshiad2ng876696f04ajgtm@google.com",
+    "sequence": 0,
+    "reminders": {
+      "useDefault": false
+    },
+    "eventType": "default"
+  },
+  {
+    "kind": "calendar#event",
+    "etag": "\"3288078103270000\"",
+    "id": "1cnrei1qrdq2tt21huj3l2103n_20230415",
+    "status": "confirmed",
+    "htmlLink": "https://www.google.com/calendar/event?eid=MWNucmVpMXFyZHEydHQyMWh1ajNsMjEwM25fMjAyMzA0MTUgNW9pdW1hODJkanI2czY5NHNpbDI4bTFiYXNAZw",
+    "created": "2022-02-05T05:29:49.000Z",
+    "updated": "2022-02-05T05:30:51.635Z",
+    "summary": "San Gabriel Mountains Trailbuilders",
+    "description": "<span><br><font><p>The San Gabriel Mountains Trailbuilders work the 1st, 3rd, and 5th Saturday of every month, and we work special projects which are not scheduled. Please email us to get on to the mailinglist to keep informed about scheduled and special projects! Email Ben at<a href=\"mailto:bwootenwhite@hotmail.com\">bwootenwhite@hotmail.com</a><b></b></p></font></span>",
+    "creator": {
+      "email": "machikoyasuda@gmail.com"
+    },
+    "organizer": {
+      "email": "5oiuma82djr6s694sil28m1bas@group.calendar.google.com",
+      "displayName": "TrailAngeles Events",
+      "self": true
+    },
+    "start": {
+      "date": "2023-04-15"
+    },
+    "end": {
+      "date": "2023-04-16"
+    },
+    "recurringEventId": "1cnrei1qrdq2tt21huj3l2103n",
+    "originalStartTime": {
+      "date": "2023-04-15"
+    },
+    "transparency": "transparent",
+    "iCalUID": "1cnrei1qrdq2tt21huj3l2103n@google.com",
+    "sequence": 0,
+    "reminders": {
+      "useDefault": false
+    },
+    "eventType": "default"
+  },
+  {
+    "kind": "calendar#event",
+    "etag": "\"3288078115932000\"",
+    "id": "0qn2c3ns2bgnr077hf5vsm753l_20230429",
+    "status": "confirmed",
+    "htmlLink": "https://www.google.com/calendar/event?eid=MHFuMmMzbnMyYmducjA3N2hmNXZzbTc1M2xfMjAyMzA0MjkgNW9pdW1hODJkanI2czY5NHNpbDI4bTFiYXNAZw",
+    "created": "2022-02-05T05:30:31.000Z",
+    "updated": "2022-02-05T05:30:57.966Z",
+    "summary": "San Gabriel Mountains Trailbuilders",
+    "description": "<font><p>The San Gabriel Mountains Trailbuilders work the 1st, 3rd, and 5th Saturday of every month, and we work special projects which are not scheduled. Please email us to get on to the mailinglist to keep informed about scheduled and special projects! Email Ben at<a href=\"mailto:bwootenwhite@hotmail.com\">bwootenwhite@hotmail.com</a></p></font>",
+    "creator": {
+      "email": "machikoyasuda@gmail.com"
+    },
+    "organizer": {
+      "email": "5oiuma82djr6s694sil28m1bas@group.calendar.google.com",
+      "displayName": "TrailAngeles Events",
+      "self": true
+    },
+    "start": {
+      "date": "2023-04-29"
+    },
+    "end": {
+      "date": "2023-04-30"
+    },
+    "recurringEventId": "0qn2c3ns2bgnr077hf5vsm753l",
+    "originalStartTime": {
+      "date": "2023-04-29"
+    },
+    "transparency": "transparent",
+    "iCalUID": "0qn2c3ns2bgnr077hf5vsm753l@google.com",
+    "sequence": 0,
+    "reminders": {
+      "useDefault": false
+    },
+    "eventType": "default"
+  },
+  {
+    "kind": "calendar#event",
+    "etag": "\"3288078091130000\"",
+    "id": "594mshiad2ng876696f04ajgtm_20230506",
+    "status": "confirmed",
+    "htmlLink": "https://www.google.com/calendar/event?eid=NTk0bXNoaWFkMm5nODc2Njk2ZjA0YWpndG1fMjAyMzA1MDYgNW9pdW1hODJkanI2czY5NHNpbDI4bTFiYXNAZw",
+    "created": "2022-02-05T05:29:37.000Z",
+    "updated": "2022-02-05T05:30:45.565Z",
+    "summary": "San Gabriel Mountains Trailbuilders",
+    "description": "<font><p>The San Gabriel Mountains Trailbuilders work the 1st, 3rd, and 5th Saturday of every month, and we work special projects which are not scheduled. Please email us to get on to the mailinglist to keep informed about scheduled and special projects! Email Ben at<a href=\"mailto:bwootenwhite@hotmail.com\">bwootenwhite@hotmail.com</a><b></b></p></font>",
+    "creator": {
+      "email": "machikoyasuda@gmail.com"
+    },
+    "organizer": {
+      "email": "5oiuma82djr6s694sil28m1bas@group.calendar.google.com",
+      "displayName": "TrailAngeles Events",
+      "self": true
+    },
+    "start": {
+      "date": "2023-05-06"
+    },
+    "end": {
+      "date": "2023-05-07"
+    },
+    "recurringEventId": "594mshiad2ng876696f04ajgtm",
+    "originalStartTime": {
+      "date": "2023-05-06"
+    },
+    "transparency": "transparent",
+    "iCalUID": "594mshiad2ng876696f04ajgtm@google.com",
+    "sequence": 0,
+    "reminders": {
+      "useDefault": false
+    },
+    "eventType": "default"
+  },
+  {
+    "kind": "calendar#event",
+    "etag": "\"3288078103270000\"",
+    "id": "1cnrei1qrdq2tt21huj3l2103n_20230520",
+    "status": "confirmed",
+    "htmlLink": "https://www.google.com/calendar/event?eid=MWNucmVpMXFyZHEydHQyMWh1ajNsMjEwM25fMjAyMzA1MjAgNW9pdW1hODJkanI2czY5NHNpbDI4bTFiYXNAZw",
+    "created": "2022-02-05T05:29:49.000Z",
+    "updated": "2022-02-05T05:30:51.635Z",
+    "summary": "San Gabriel Mountains Trailbuilders",
+    "description": "<span><br><font><p>The San Gabriel Mountains Trailbuilders work the 1st, 3rd, and 5th Saturday of every month, and we work special projects which are not scheduled. Please email us to get on to the mailinglist to keep informed about scheduled and special projects! Email Ben at<a href=\"mailto:bwootenwhite@hotmail.com\">bwootenwhite@hotmail.com</a><b></b></p></font></span>",
+    "creator": {
+      "email": "machikoyasuda@gmail.com"
+    },
+    "organizer": {
+      "email": "5oiuma82djr6s694sil28m1bas@group.calendar.google.com",
+      "displayName": "TrailAngeles Events",
+      "self": true
+    },
+    "start": {
+      "date": "2023-05-20"
+    },
+    "end": {
+      "date": "2023-05-21"
+    },
+    "recurringEventId": "1cnrei1qrdq2tt21huj3l2103n",
+    "originalStartTime": {
+      "date": "2023-05-20"
+    },
+    "transparency": "transparent",
+    "iCalUID": "1cnrei1qrdq2tt21huj3l2103n@google.com",
+    "sequence": 0,
+    "reminders": {
+      "useDefault": false
+    },
+    "eventType": "default"
+  },
+  {
+    "kind": "calendar#event",
+    "etag": "\"3288078115932000\"",
+    "id": "0qn2c3ns2bgnr077hf5vsm753l_20230527",
+    "status": "confirmed",
+    "htmlLink": "https://www.google.com/calendar/event?eid=MHFuMmMzbnMyYmducjA3N2hmNXZzbTc1M2xfMjAyMzA1MjcgNW9pdW1hODJkanI2czY5NHNpbDI4bTFiYXNAZw",
+    "created": "2022-02-05T05:30:31.000Z",
+    "updated": "2022-02-05T05:30:57.966Z",
+    "summary": "San Gabriel Mountains Trailbuilders",
+    "description": "<font><p>The San Gabriel Mountains Trailbuilders work the 1st, 3rd, and 5th Saturday of every month, and we work special projects which are not scheduled. Please email us to get on to the mailinglist to keep informed about scheduled and special projects! Email Ben at<a href=\"mailto:bwootenwhite@hotmail.com\">bwootenwhite@hotmail.com</a></p></font>",
+    "creator": {
+      "email": "machikoyasuda@gmail.com"
+    },
+    "organizer": {
+      "email": "5oiuma82djr6s694sil28m1bas@group.calendar.google.com",
+      "displayName": "TrailAngeles Events",
+      "self": true
+    },
+    "start": {
+      "date": "2023-05-27"
+    },
+    "end": {
+      "date": "2023-05-28"
+    },
+    "recurringEventId": "0qn2c3ns2bgnr077hf5vsm753l",
+    "originalStartTime": {
+      "date": "2023-05-27"
+    },
+    "transparency": "transparent",
+    "iCalUID": "0qn2c3ns2bgnr077hf5vsm753l@google.com",
+    "sequence": 0,
+    "reminders": {
+      "useDefault": false
+    },
+    "eventType": "default"
+  },
+  {
+    "kind": "calendar#event",
+    "etag": "\"3288078091130000\"",
+    "id": "594mshiad2ng876696f04ajgtm_20230603",
+    "status": "confirmed",
+    "htmlLink": "https://www.google.com/calendar/event?eid=NTk0bXNoaWFkMm5nODc2Njk2ZjA0YWpndG1fMjAyMzA2MDMgNW9pdW1hODJkanI2czY5NHNpbDI4bTFiYXNAZw",
+    "created": "2022-02-05T05:29:37.000Z",
+    "updated": "2022-02-05T05:30:45.565Z",
+    "summary": "San Gabriel Mountains Trailbuilders",
+    "description": "<font><p>The San Gabriel Mountains Trailbuilders work the 1st, 3rd, and 5th Saturday of every month, and we work special projects which are not scheduled. Please email us to get on to the mailinglist to keep informed about scheduled and special projects! Email Ben at<a href=\"mailto:bwootenwhite@hotmail.com\">bwootenwhite@hotmail.com</a><b></b></p></font>",
+    "creator": {
+      "email": "machikoyasuda@gmail.com"
+    },
+    "organizer": {
+      "email": "5oiuma82djr6s694sil28m1bas@group.calendar.google.com",
+      "displayName": "TrailAngeles Events",
+      "self": true
+    },
+    "start": {
+      "date": "2023-06-03"
+    },
+    "end": {
+      "date": "2023-06-04"
+    },
+    "recurringEventId": "594mshiad2ng876696f04ajgtm",
+    "originalStartTime": {
+      "date": "2023-06-03"
+    },
+    "transparency": "transparent",
+    "iCalUID": "594mshiad2ng876696f04ajgtm@google.com",
+    "sequence": 0,
+    "reminders": {
+      "useDefault": false
+    },
+    "eventType": "default"
+  },
+  {
+    "kind": "calendar#event",
+    "etag": "\"3288078103270000\"",
+    "id": "1cnrei1qrdq2tt21huj3l2103n_20230617",
+    "status": "confirmed",
+    "htmlLink": "https://www.google.com/calendar/event?eid=MWNucmVpMXFyZHEydHQyMWh1ajNsMjEwM25fMjAyMzA2MTcgNW9pdW1hODJkanI2czY5NHNpbDI4bTFiYXNAZw",
+    "created": "2022-02-05T05:29:49.000Z",
+    "updated": "2022-02-05T05:30:51.635Z",
+    "summary": "San Gabriel Mountains Trailbuilders",
+    "description": "<span><br><font><p>The San Gabriel Mountains Trailbuilders work the 1st, 3rd, and 5th Saturday of every month, and we work special projects which are not scheduled. Please email us to get on to the mailinglist to keep informed about scheduled and special projects! Email Ben at<a href=\"mailto:bwootenwhite@hotmail.com\">bwootenwhite@hotmail.com</a><b></b></p></font></span>",
+    "creator": {
+      "email": "machikoyasuda@gmail.com"
+    },
+    "organizer": {
+      "email": "5oiuma82djr6s694sil28m1bas@group.calendar.google.com",
+      "displayName": "TrailAngeles Events",
+      "self": true
+    },
+    "start": {
+      "date": "2023-06-17"
+    },
+    "end": {
+      "date": "2023-06-18"
+    },
+    "recurringEventId": "1cnrei1qrdq2tt21huj3l2103n",
+    "originalStartTime": {
+      "date": "2023-06-17"
+    },
+    "transparency": "transparent",
+    "iCalUID": "1cnrei1qrdq2tt21huj3l2103n@google.com",
+    "sequence": 0,
+    "reminders": {
+      "useDefault": false
+    },
+    "eventType": "default"
+  },
+  {
+    "kind": "calendar#event",
+    "etag": "\"3288078115932000\"",
+    "id": "0qn2c3ns2bgnr077hf5vsm753l_20230624",
+    "status": "confirmed",
+    "htmlLink": "https://www.google.com/calendar/event?eid=MHFuMmMzbnMyYmducjA3N2hmNXZzbTc1M2xfMjAyMzA2MjQgNW9pdW1hODJkanI2czY5NHNpbDI4bTFiYXNAZw",
+    "created": "2022-02-05T05:30:31.000Z",
+    "updated": "2022-02-05T05:30:57.966Z",
+    "summary": "San Gabriel Mountains Trailbuilders",
+    "description": "<font><p>The San Gabriel Mountains Trailbuilders work the 1st, 3rd, and 5th Saturday of every month, and we work special projects which are not scheduled. Please email us to get on to the mailinglist to keep informed about scheduled and special projects! Email Ben at<a href=\"mailto:bwootenwhite@hotmail.com\">bwootenwhite@hotmail.com</a></p></font>",
+    "creator": {
+      "email": "machikoyasuda@gmail.com"
+    },
+    "organizer": {
+      "email": "5oiuma82djr6s694sil28m1bas@group.calendar.google.com",
+      "displayName": "TrailAngeles Events",
+      "self": true
+    },
+    "start": {
+      "date": "2023-06-24"
+    },
+    "end": {
+      "date": "2023-06-25"
+    },
+    "recurringEventId": "0qn2c3ns2bgnr077hf5vsm753l",
+    "originalStartTime": {
+      "date": "2023-06-24"
+    },
+    "transparency": "transparent",
+    "iCalUID": "0qn2c3ns2bgnr077hf5vsm753l@google.com",
+    "sequence": 0,
+    "reminders": {
+      "useDefault": false
+    },
+    "eventType": "default"
+  },
+  {
+    "kind": "calendar#event",
+    "etag": "\"3288078091130000\"",
+    "id": "594mshiad2ng876696f04ajgtm_20230701",
+    "status": "confirmed",
+    "htmlLink": "https://www.google.com/calendar/event?eid=NTk0bXNoaWFkMm5nODc2Njk2ZjA0YWpndG1fMjAyMzA3MDEgNW9pdW1hODJkanI2czY5NHNpbDI4bTFiYXNAZw",
+    "created": "2022-02-05T05:29:37.000Z",
+    "updated": "2022-02-05T05:30:45.565Z",
+    "summary": "San Gabriel Mountains Trailbuilders",
+    "description": "<font><p>The San Gabriel Mountains Trailbuilders work the 1st, 3rd, and 5th Saturday of every month, and we work special projects which are not scheduled. Please email us to get on to the mailinglist to keep informed about scheduled and special projects! Email Ben at<a href=\"mailto:bwootenwhite@hotmail.com\">bwootenwhite@hotmail.com</a><b></b></p></font>",
+    "creator": {
+      "email": "machikoyasuda@gmail.com"
+    },
+    "organizer": {
+      "email": "5oiuma82djr6s694sil28m1bas@group.calendar.google.com",
+      "displayName": "TrailAngeles Events",
+      "self": true
+    },
+    "start": {
+      "date": "2023-07-01"
+    },
+    "end": {
+      "date": "2023-07-02"
+    },
+    "recurringEventId": "594mshiad2ng876696f04ajgtm",
+    "originalStartTime": {
+      "date": "2023-07-01"
+    },
+    "transparency": "transparent",
+    "iCalUID": "594mshiad2ng876696f04ajgtm@google.com",
+    "sequence": 0,
+    "reminders": {
+      "useDefault": false
+    },
+    "eventType": "default"
+  },
+  {
+    "kind": "calendar#event",
+    "etag": "\"3288078103270000\"",
+    "id": "1cnrei1qrdq2tt21huj3l2103n_20230715",
+    "status": "confirmed",
+    "htmlLink": "https://www.google.com/calendar/event?eid=MWNucmVpMXFyZHEydHQyMWh1ajNsMjEwM25fMjAyMzA3MTUgNW9pdW1hODJkanI2czY5NHNpbDI4bTFiYXNAZw",
+    "created": "2022-02-05T05:29:49.000Z",
+    "updated": "2022-02-05T05:30:51.635Z",
+    "summary": "San Gabriel Mountains Trailbuilders",
+    "description": "<span><br><font><p>The San Gabriel Mountains Trailbuilders work the 1st, 3rd, and 5th Saturday of every month, and we work special projects which are not scheduled. Please email us to get on to the mailinglist to keep informed about scheduled and special projects! Email Ben at<a href=\"mailto:bwootenwhite@hotmail.com\">bwootenwhite@hotmail.com</a><b></b></p></font></span>",
+    "creator": {
+      "email": "machikoyasuda@gmail.com"
+    },
+    "organizer": {
+      "email": "5oiuma82djr6s694sil28m1bas@group.calendar.google.com",
+      "displayName": "TrailAngeles Events",
+      "self": true
+    },
+    "start": {
+      "date": "2023-07-15"
+    },
+    "end": {
+      "date": "2023-07-16"
+    },
+    "recurringEventId": "1cnrei1qrdq2tt21huj3l2103n",
+    "originalStartTime": {
+      "date": "2023-07-15"
+    },
+    "transparency": "transparent",
+    "iCalUID": "1cnrei1qrdq2tt21huj3l2103n@google.com",
+    "sequence": 0,
+    "reminders": {
+      "useDefault": false
+    },
+    "eventType": "default"
+  },
+  {
+    "kind": "calendar#event",
+    "etag": "\"3288078115932000\"",
+    "id": "0qn2c3ns2bgnr077hf5vsm753l_20230729",
+    "status": "confirmed",
+    "htmlLink": "https://www.google.com/calendar/event?eid=MHFuMmMzbnMyYmducjA3N2hmNXZzbTc1M2xfMjAyMzA3MjkgNW9pdW1hODJkanI2czY5NHNpbDI4bTFiYXNAZw",
+    "created": "2022-02-05T05:30:31.000Z",
+    "updated": "2022-02-05T05:30:57.966Z",
+    "summary": "San Gabriel Mountains Trailbuilders",
+    "description": "<font><p>The San Gabriel Mountains Trailbuilders work the 1st, 3rd, and 5th Saturday of every month, and we work special projects which are not scheduled. Please email us to get on to the mailinglist to keep informed about scheduled and special projects! Email Ben at<a href=\"mailto:bwootenwhite@hotmail.com\">bwootenwhite@hotmail.com</a></p></font>",
+    "creator": {
+      "email": "machikoyasuda@gmail.com"
+    },
+    "organizer": {
+      "email": "5oiuma82djr6s694sil28m1bas@group.calendar.google.com",
+      "displayName": "TrailAngeles Events",
+      "self": true
+    },
+    "start": {
+      "date": "2023-07-29"
+    },
+    "end": {
+      "date": "2023-07-30"
+    },
+    "recurringEventId": "0qn2c3ns2bgnr077hf5vsm753l",
+    "originalStartTime": {
+      "date": "2023-07-29"
+    },
+    "transparency": "transparent",
+    "iCalUID": "0qn2c3ns2bgnr077hf5vsm753l@google.com",
+    "sequence": 0,
+    "reminders": {
+      "useDefault": false
+    },
+    "eventType": "default"
+  },
+  {
+    "kind": "calendar#event",
+    "etag": "\"3288078091130000\"",
+    "id": "594mshiad2ng876696f04ajgtm_20230805",
+    "status": "confirmed",
+    "htmlLink": "https://www.google.com/calendar/event?eid=NTk0bXNoaWFkMm5nODc2Njk2ZjA0YWpndG1fMjAyMzA4MDUgNW9pdW1hODJkanI2czY5NHNpbDI4bTFiYXNAZw",
+    "created": "2022-02-05T05:29:37.000Z",
+    "updated": "2022-02-05T05:30:45.565Z",
+    "summary": "San Gabriel Mountains Trailbuilders",
+    "description": "<font><p>The San Gabriel Mountains Trailbuilders work the 1st, 3rd, and 5th Saturday of every month, and we work special projects which are not scheduled. Please email us to get on to the mailinglist to keep informed about scheduled and special projects! Email Ben at<a href=\"mailto:bwootenwhite@hotmail.com\">bwootenwhite@hotmail.com</a><b></b></p></font>",
+    "creator": {
+      "email": "machikoyasuda@gmail.com"
+    },
+    "organizer": {
+      "email": "5oiuma82djr6s694sil28m1bas@group.calendar.google.com",
+      "displayName": "TrailAngeles Events",
+      "self": true
+    },
+    "start": {
+      "date": "2023-08-05"
+    },
+    "end": {
+      "date": "2023-08-06"
+    },
+    "recurringEventId": "594mshiad2ng876696f04ajgtm",
+    "originalStartTime": {
+      "date": "2023-08-05"
+    },
+    "transparency": "transparent",
+    "iCalUID": "594mshiad2ng876696f04ajgtm@google.com",
+    "sequence": 0,
+    "reminders": {
+      "useDefault": false
+    },
+    "eventType": "default"
+  },
+  {
+    "kind": "calendar#event",
+    "etag": "\"3288078103270000\"",
+    "id": "1cnrei1qrdq2tt21huj3l2103n_20230819",
+    "status": "confirmed",
+    "htmlLink": "https://www.google.com/calendar/event?eid=MWNucmVpMXFyZHEydHQyMWh1ajNsMjEwM25fMjAyMzA4MTkgNW9pdW1hODJkanI2czY5NHNpbDI4bTFiYXNAZw",
+    "created": "2022-02-05T05:29:49.000Z",
+    "updated": "2022-02-05T05:30:51.635Z",
+    "summary": "San Gabriel Mountains Trailbuilders",
+    "description": "<span><br><font><p>The San Gabriel Mountains Trailbuilders work the 1st, 3rd, and 5th Saturday of every month, and we work special projects which are not scheduled. Please email us to get on to the mailinglist to keep informed about scheduled and special projects! Email Ben at<a href=\"mailto:bwootenwhite@hotmail.com\">bwootenwhite@hotmail.com</a><b></b></p></font></span>",
+    "creator": {
+      "email": "machikoyasuda@gmail.com"
+    },
+    "organizer": {
+      "email": "5oiuma82djr6s694sil28m1bas@group.calendar.google.com",
+      "displayName": "TrailAngeles Events",
+      "self": true
+    },
+    "start": {
+      "date": "2023-08-19"
+    },
+    "end": {
+      "date": "2023-08-20"
+    },
+    "recurringEventId": "1cnrei1qrdq2tt21huj3l2103n",
+    "originalStartTime": {
+      "date": "2023-08-19"
+    },
+    "transparency": "transparent",
+    "iCalUID": "1cnrei1qrdq2tt21huj3l2103n@google.com",
+    "sequence": 0,
+    "reminders": {
+      "useDefault": false
+    },
+    "eventType": "default"
+  },
+  {
+    "kind": "calendar#event",
+    "etag": "\"3288078115932000\"",
+    "id": "0qn2c3ns2bgnr077hf5vsm753l_20230826",
+    "status": "confirmed",
+    "htmlLink": "https://www.google.com/calendar/event?eid=MHFuMmMzbnMyYmducjA3N2hmNXZzbTc1M2xfMjAyMzA4MjYgNW9pdW1hODJkanI2czY5NHNpbDI4bTFiYXNAZw",
+    "created": "2022-02-05T05:30:31.000Z",
+    "updated": "2022-02-05T05:30:57.966Z",
+    "summary": "San Gabriel Mountains Trailbuilders",
+    "description": "<font><p>The San Gabriel Mountains Trailbuilders work the 1st, 3rd, and 5th Saturday of every month, and we work special projects which are not scheduled. Please email us to get on to the mailinglist to keep informed about scheduled and special projects! Email Ben at<a href=\"mailto:bwootenwhite@hotmail.com\">bwootenwhite@hotmail.com</a></p></font>",
+    "creator": {
+      "email": "machikoyasuda@gmail.com"
+    },
+    "organizer": {
+      "email": "5oiuma82djr6s694sil28m1bas@group.calendar.google.com",
+      "displayName": "TrailAngeles Events",
+      "self": true
+    },
+    "start": {
+      "date": "2023-08-26"
+    },
+    "end": {
+      "date": "2023-08-27"
+    },
+    "recurringEventId": "0qn2c3ns2bgnr077hf5vsm753l",
+    "originalStartTime": {
+      "date": "2023-08-26"
+    },
+    "transparency": "transparent",
+    "iCalUID": "0qn2c3ns2bgnr077hf5vsm753l@google.com",
+    "sequence": 0,
+    "reminders": {
+      "useDefault": false
+    },
+    "eventType": "default"
+  },
+  {
+    "kind": "calendar#event",
+    "etag": "\"3288078091130000\"",
+    "id": "594mshiad2ng876696f04ajgtm_20230902",
+    "status": "confirmed",
+    "htmlLink": "https://www.google.com/calendar/event?eid=NTk0bXNoaWFkMm5nODc2Njk2ZjA0YWpndG1fMjAyMzA5MDIgNW9pdW1hODJkanI2czY5NHNpbDI4bTFiYXNAZw",
+    "created": "2022-02-05T05:29:37.000Z",
+    "updated": "2022-02-05T05:30:45.565Z",
+    "summary": "San Gabriel Mountains Trailbuilders",
+    "description": "<font><p>The San Gabriel Mountains Trailbuilders work the 1st, 3rd, and 5th Saturday of every month, and we work special projects which are not scheduled. Please email us to get on to the mailinglist to keep informed about scheduled and special projects! Email Ben at<a href=\"mailto:bwootenwhite@hotmail.com\">bwootenwhite@hotmail.com</a><b></b></p></font>",
+    "creator": {
+      "email": "machikoyasuda@gmail.com"
+    },
+    "organizer": {
+      "email": "5oiuma82djr6s694sil28m1bas@group.calendar.google.com",
+      "displayName": "TrailAngeles Events",
+      "self": true
+    },
+    "start": {
+      "date": "2023-09-02"
+    },
+    "end": {
+      "date": "2023-09-03"
+    },
+    "recurringEventId": "594mshiad2ng876696f04ajgtm",
+    "originalStartTime": {
+      "date": "2023-09-02"
+    },
+    "transparency": "transparent",
+    "iCalUID": "594mshiad2ng876696f04ajgtm@google.com",
+    "sequence": 0,
+    "reminders": {
+      "useDefault": false
+    },
+    "eventType": "default"
+  },
+  {
+    "kind": "calendar#event",
+    "etag": "\"3288078103270000\"",
+    "id": "1cnrei1qrdq2tt21huj3l2103n_20230916",
+    "status": "confirmed",
+    "htmlLink": "https://www.google.com/calendar/event?eid=MWNucmVpMXFyZHEydHQyMWh1ajNsMjEwM25fMjAyMzA5MTYgNW9pdW1hODJkanI2czY5NHNpbDI4bTFiYXNAZw",
+    "created": "2022-02-05T05:29:49.000Z",
+    "updated": "2022-02-05T05:30:51.635Z",
+    "summary": "San Gabriel Mountains Trailbuilders",
+    "description": "<span><br><font><p>The San Gabriel Mountains Trailbuilders work the 1st, 3rd, and 5th Saturday of every month, and we work special projects which are not scheduled. Please email us to get on to the mailinglist to keep informed about scheduled and special projects! Email Ben at<a href=\"mailto:bwootenwhite@hotmail.com\">bwootenwhite@hotmail.com</a><b></b></p></font></span>",
+    "creator": {
+      "email": "machikoyasuda@gmail.com"
+    },
+    "organizer": {
+      "email": "5oiuma82djr6s694sil28m1bas@group.calendar.google.com",
+      "displayName": "TrailAngeles Events",
+      "self": true
+    },
+    "start": {
+      "date": "2023-09-16"
+    },
+    "end": {
+      "date": "2023-09-17"
+    },
+    "recurringEventId": "1cnrei1qrdq2tt21huj3l2103n",
+    "originalStartTime": {
+      "date": "2023-09-16"
+    },
+    "transparency": "transparent",
+    "iCalUID": "1cnrei1qrdq2tt21huj3l2103n@google.com",
+    "sequence": 0,
+    "reminders": {
+      "useDefault": false
+    },
+    "eventType": "default"
+  },
+  {
+    "kind": "calendar#event",
+    "etag": "\"3288078115932000\"",
+    "id": "0qn2c3ns2bgnr077hf5vsm753l_20230930",
+    "status": "confirmed",
+    "htmlLink": "https://www.google.com/calendar/event?eid=MHFuMmMzbnMyYmducjA3N2hmNXZzbTc1M2xfMjAyMzA5MzAgNW9pdW1hODJkanI2czY5NHNpbDI4bTFiYXNAZw",
+    "created": "2022-02-05T05:30:31.000Z",
+    "updated": "2022-02-05T05:30:57.966Z",
+    "summary": "San Gabriel Mountains Trailbuilders",
+    "description": "<font><p>The San Gabriel Mountains Trailbuilders work the 1st, 3rd, and 5th Saturday of every month, and we work special projects which are not scheduled. Please email us to get on to the mailinglist to keep informed about scheduled and special projects! Email Ben at<a href=\"mailto:bwootenwhite@hotmail.com\">bwootenwhite@hotmail.com</a></p></font>",
+    "creator": {
+      "email": "machikoyasuda@gmail.com"
+    },
+    "organizer": {
+      "email": "5oiuma82djr6s694sil28m1bas@group.calendar.google.com",
+      "displayName": "TrailAngeles Events",
+      "self": true
+    },
+    "start": {
+      "date": "2023-09-30"
+    },
+    "end": {
+      "date": "2023-10-01"
+    },
+    "recurringEventId": "0qn2c3ns2bgnr077hf5vsm753l",
+    "originalStartTime": {
+      "date": "2023-09-30"
+    },
+    "transparency": "transparent",
+    "iCalUID": "0qn2c3ns2bgnr077hf5vsm753l@google.com",
+    "sequence": 0,
+    "reminders": {
+      "useDefault": false
+    },
+    "eventType": "default"
+  },
+  {
+    "kind": "calendar#event",
+    "etag": "\"3288078091130000\"",
+    "id": "594mshiad2ng876696f04ajgtm_20231007",
+    "status": "confirmed",
+    "htmlLink": "https://www.google.com/calendar/event?eid=NTk0bXNoaWFkMm5nODc2Njk2ZjA0YWpndG1fMjAyMzEwMDcgNW9pdW1hODJkanI2czY5NHNpbDI4bTFiYXNAZw",
+    "created": "2022-02-05T05:29:37.000Z",
+    "updated": "2022-02-05T05:30:45.565Z",
+    "summary": "San Gabriel Mountains Trailbuilders",
+    "description": "<font><p>The San Gabriel Mountains Trailbuilders work the 1st, 3rd, and 5th Saturday of every month, and we work special projects which are not scheduled. Please email us to get on to the mailinglist to keep informed about scheduled and special projects! Email Ben at<a href=\"mailto:bwootenwhite@hotmail.com\">bwootenwhite@hotmail.com</a><b></b></p></font>",
+    "creator": {
+      "email": "machikoyasuda@gmail.com"
+    },
+    "organizer": {
+      "email": "5oiuma82djr6s694sil28m1bas@group.calendar.google.com",
+      "displayName": "TrailAngeles Events",
+      "self": true
+    },
+    "start": {
+      "date": "2023-10-07"
+    },
+    "end": {
+      "date": "2023-10-08"
+    },
+    "recurringEventId": "594mshiad2ng876696f04ajgtm",
+    "originalStartTime": {
+      "date": "2023-10-07"
+    },
+    "transparency": "transparent",
+    "iCalUID": "594mshiad2ng876696f04ajgtm@google.com",
+    "sequence": 0,
+    "reminders": {
+      "useDefault": false
+    },
+    "eventType": "default"
+  },
+  {
+    "kind": "calendar#event",
+    "etag": "\"3288078103270000\"",
+    "id": "1cnrei1qrdq2tt21huj3l2103n_20231021",
+    "status": "confirmed",
+    "htmlLink": "https://www.google.com/calendar/event?eid=MWNucmVpMXFyZHEydHQyMWh1ajNsMjEwM25fMjAyMzEwMjEgNW9pdW1hODJkanI2czY5NHNpbDI4bTFiYXNAZw",
+    "created": "2022-02-05T05:29:49.000Z",
+    "updated": "2022-02-05T05:30:51.635Z",
+    "summary": "San Gabriel Mountains Trailbuilders",
+    "description": "<span><br><font><p>The San Gabriel Mountains Trailbuilders work the 1st, 3rd, and 5th Saturday of every month, and we work special projects which are not scheduled. Please email us to get on to the mailinglist to keep informed about scheduled and special projects! Email Ben at<a href=\"mailto:bwootenwhite@hotmail.com\">bwootenwhite@hotmail.com</a><b></b></p></font></span>",
+    "creator": {
+      "email": "machikoyasuda@gmail.com"
+    },
+    "organizer": {
+      "email": "5oiuma82djr6s694sil28m1bas@group.calendar.google.com",
+      "displayName": "TrailAngeles Events",
+      "self": true
+    },
+    "start": {
+      "date": "2023-10-21"
+    },
+    "end": {
+      "date": "2023-10-22"
+    },
+    "recurringEventId": "1cnrei1qrdq2tt21huj3l2103n",
+    "originalStartTime": {
+      "date": "2023-10-21"
+    },
+    "transparency": "transparent",
+    "iCalUID": "1cnrei1qrdq2tt21huj3l2103n@google.com",
+    "sequence": 0,
+    "reminders": {
+      "useDefault": false
+    },
+    "eventType": "default"
+  },
+  {
+    "kind": "calendar#event",
+    "etag": "\"3288078115932000\"",
+    "id": "0qn2c3ns2bgnr077hf5vsm753l_20231028",
+    "status": "confirmed",
+    "htmlLink": "https://www.google.com/calendar/event?eid=MHFuMmMzbnMyYmducjA3N2hmNXZzbTc1M2xfMjAyMzEwMjggNW9pdW1hODJkanI2czY5NHNpbDI4bTFiYXNAZw",
+    "created": "2022-02-05T05:30:31.000Z",
+    "updated": "2022-02-05T05:30:57.966Z",
+    "summary": "San Gabriel Mountains Trailbuilders",
+    "description": "<font><p>The San Gabriel Mountains Trailbuilders work the 1st, 3rd, and 5th Saturday of every month, and we work special projects which are not scheduled. Please email us to get on to the mailinglist to keep informed about scheduled and special projects! Email Ben at<a href=\"mailto:bwootenwhite@hotmail.com\">bwootenwhite@hotmail.com</a></p></font>",
+    "creator": {
+      "email": "machikoyasuda@gmail.com"
+    },
+    "organizer": {
+      "email": "5oiuma82djr6s694sil28m1bas@group.calendar.google.com",
+      "displayName": "TrailAngeles Events",
+      "self": true
+    },
+    "start": {
+      "date": "2023-10-28"
+    },
+    "end": {
+      "date": "2023-10-29"
+    },
+    "recurringEventId": "0qn2c3ns2bgnr077hf5vsm753l",
+    "originalStartTime": {
+      "date": "2023-10-28"
+    },
+    "transparency": "transparent",
+    "iCalUID": "0qn2c3ns2bgnr077hf5vsm753l@google.com",
+    "sequence": 0,
+    "reminders": {
+      "useDefault": false
+    },
+    "eventType": "default"
+  },
+  {
+    "kind": "calendar#event",
+    "etag": "\"3288078091130000\"",
+    "id": "594mshiad2ng876696f04ajgtm_20231104",
+    "status": "confirmed",
+    "htmlLink": "https://www.google.com/calendar/event?eid=NTk0bXNoaWFkMm5nODc2Njk2ZjA0YWpndG1fMjAyMzExMDQgNW9pdW1hODJkanI2czY5NHNpbDI4bTFiYXNAZw",
+    "created": "2022-02-05T05:29:37.000Z",
+    "updated": "2022-02-05T05:30:45.565Z",
+    "summary": "San Gabriel Mountains Trailbuilders",
+    "description": "<font><p>The San Gabriel Mountains Trailbuilders work the 1st, 3rd, and 5th Saturday of every month, and we work special projects which are not scheduled. Please email us to get on to the mailinglist to keep informed about scheduled and special projects! Email Ben at<a href=\"mailto:bwootenwhite@hotmail.com\">bwootenwhite@hotmail.com</a><b></b></p></font>",
+    "creator": {
+      "email": "machikoyasuda@gmail.com"
+    },
+    "organizer": {
+      "email": "5oiuma82djr6s694sil28m1bas@group.calendar.google.com",
+      "displayName": "TrailAngeles Events",
+      "self": true
+    },
+    "start": {
+      "date": "2023-11-04"
+    },
+    "end": {
+      "date": "2023-11-05"
+    },
+    "recurringEventId": "594mshiad2ng876696f04ajgtm",
+    "originalStartTime": {
+      "date": "2023-11-04"
+    },
+    "transparency": "transparent",
+    "iCalUID": "594mshiad2ng876696f04ajgtm@google.com",
+    "sequence": 0,
+    "reminders": {
+      "useDefault": false
+    },
+    "eventType": "default"
+  },
+  {
+    "kind": "calendar#event",
+    "etag": "\"3288078103270000\"",
+    "id": "1cnrei1qrdq2tt21huj3l2103n_20231118",
+    "status": "confirmed",
+    "htmlLink": "https://www.google.com/calendar/event?eid=MWNucmVpMXFyZHEydHQyMWh1ajNsMjEwM25fMjAyMzExMTggNW9pdW1hODJkanI2czY5NHNpbDI4bTFiYXNAZw",
+    "created": "2022-02-05T05:29:49.000Z",
+    "updated": "2022-02-05T05:30:51.635Z",
+    "summary": "San Gabriel Mountains Trailbuilders",
+    "description": "<span><br><font><p>The San Gabriel Mountains Trailbuilders work the 1st, 3rd, and 5th Saturday of every month, and we work special projects which are not scheduled. Please email us to get on to the mailinglist to keep informed about scheduled and special projects! Email Ben at<a href=\"mailto:bwootenwhite@hotmail.com\">bwootenwhite@hotmail.com</a><b></b></p></font></span>",
+    "creator": {
+      "email": "machikoyasuda@gmail.com"
+    },
+    "organizer": {
+      "email": "5oiuma82djr6s694sil28m1bas@group.calendar.google.com",
+      "displayName": "TrailAngeles Events",
+      "self": true
+    },
+    "start": {
+      "date": "2023-11-18"
+    },
+    "end": {
+      "date": "2023-11-19"
+    },
+    "recurringEventId": "1cnrei1qrdq2tt21huj3l2103n",
+    "originalStartTime": {
+      "date": "2023-11-18"
+    },
+    "transparency": "transparent",
+    "iCalUID": "1cnrei1qrdq2tt21huj3l2103n@google.com",
+    "sequence": 0,
+    "reminders": {
+      "useDefault": false
+    },
+    "eventType": "default"
+  },
+  {
+    "kind": "calendar#event",
+    "etag": "\"3288078115932000\"",
+    "id": "0qn2c3ns2bgnr077hf5vsm753l_20231125",
+    "status": "confirmed",
+    "htmlLink": "https://www.google.com/calendar/event?eid=MHFuMmMzbnMyYmducjA3N2hmNXZzbTc1M2xfMjAyMzExMjUgNW9pdW1hODJkanI2czY5NHNpbDI4bTFiYXNAZw",
+    "created": "2022-02-05T05:30:31.000Z",
+    "updated": "2022-02-05T05:30:57.966Z",
+    "summary": "San Gabriel Mountains Trailbuilders",
+    "description": "<font><p>The San Gabriel Mountains Trailbuilders work the 1st, 3rd, and 5th Saturday of every month, and we work special projects which are not scheduled. Please email us to get on to the mailinglist to keep informed about scheduled and special projects! Email Ben at<a href=\"mailto:bwootenwhite@hotmail.com\">bwootenwhite@hotmail.com</a></p></font>",
+    "creator": {
+      "email": "machikoyasuda@gmail.com"
+    },
+    "organizer": {
+      "email": "5oiuma82djr6s694sil28m1bas@group.calendar.google.com",
+      "displayName": "TrailAngeles Events",
+      "self": true
+    },
+    "start": {
+      "date": "2023-11-25"
+    },
+    "end": {
+      "date": "2023-11-26"
+    },
+    "recurringEventId": "0qn2c3ns2bgnr077hf5vsm753l",
+    "originalStartTime": {
+      "date": "2023-11-25"
+    },
+    "transparency": "transparent",
+    "iCalUID": "0qn2c3ns2bgnr077hf5vsm753l@google.com",
+    "sequence": 0,
+    "reminders": {
+      "useDefault": false
+    },
+    "eventType": "default"
+  },
+  {
+    "kind": "calendar#event",
+    "etag": "\"3288078091130000\"",
+    "id": "594mshiad2ng876696f04ajgtm_20231202",
+    "status": "confirmed",
+    "htmlLink": "https://www.google.com/calendar/event?eid=NTk0bXNoaWFkMm5nODc2Njk2ZjA0YWpndG1fMjAyMzEyMDIgNW9pdW1hODJkanI2czY5NHNpbDI4bTFiYXNAZw",
+    "created": "2022-02-05T05:29:37.000Z",
+    "updated": "2022-02-05T05:30:45.565Z",
+    "summary": "San Gabriel Mountains Trailbuilders",
+    "description": "<font><p>The San Gabriel Mountains Trailbuilders work the 1st, 3rd, and 5th Saturday of every month, and we work special projects which are not scheduled. Please email us to get on to the mailinglist to keep informed about scheduled and special projects! Email Ben at<a href=\"mailto:bwootenwhite@hotmail.com\">bwootenwhite@hotmail.com</a><b></b></p></font>",
+    "creator": {
+      "email": "machikoyasuda@gmail.com"
+    },
+    "organizer": {
+      "email": "5oiuma82djr6s694sil28m1bas@group.calendar.google.com",
+      "displayName": "TrailAngeles Events",
+      "self": true
+    },
+    "start": {
+      "date": "2023-12-02"
+    },
+    "end": {
+      "date": "2023-12-03"
+    },
+    "recurringEventId": "594mshiad2ng876696f04ajgtm",
+    "originalStartTime": {
+      "date": "2023-12-02"
+    },
+    "transparency": "transparent",
+    "iCalUID": "594mshiad2ng876696f04ajgtm@google.com",
+    "sequence": 0,
+    "reminders": {
+      "useDefault": false
+    },
+    "eventType": "default"
+  },
+  {
+    "kind": "calendar#event",
+    "etag": "\"3288078103270000\"",
+    "id": "1cnrei1qrdq2tt21huj3l2103n_20231216",
+    "status": "confirmed",
+    "htmlLink": "https://www.google.com/calendar/event?eid=MWNucmVpMXFyZHEydHQyMWh1ajNsMjEwM25fMjAyMzEyMTYgNW9pdW1hODJkanI2czY5NHNpbDI4bTFiYXNAZw",
+    "created": "2022-02-05T05:29:49.000Z",
+    "updated": "2022-02-05T05:30:51.635Z",
+    "summary": "San Gabriel Mountains Trailbuilders",
+    "description": "<span><br><font><p>The San Gabriel Mountains Trailbuilders work the 1st, 3rd, and 5th Saturday of every month, and we work special projects which are not scheduled. Please email us to get on to the mailinglist to keep informed about scheduled and special projects! Email Ben at<a href=\"mailto:bwootenwhite@hotmail.com\">bwootenwhite@hotmail.com</a><b></b></p></font></span>",
+    "creator": {
+      "email": "machikoyasuda@gmail.com"
+    },
+    "organizer": {
+      "email": "5oiuma82djr6s694sil28m1bas@group.calendar.google.com",
+      "displayName": "TrailAngeles Events",
+      "self": true
+    },
+    "start": {
+      "date": "2023-12-16"
+    },
+    "end": {
+      "date": "2023-12-17"
+    },
+    "recurringEventId": "1cnrei1qrdq2tt21huj3l2103n",
+    "originalStartTime": {
+      "date": "2023-12-16"
+    },
+    "transparency": "transparent",
+    "iCalUID": "1cnrei1qrdq2tt21huj3l2103n@google.com",
+    "sequence": 0,
+    "reminders": {
+      "useDefault": false
+    },
+    "eventType": "default"
+  },
+  {
+    "kind": "calendar#event",
+    "etag": "\"3288078115932000\"",
+    "id": "0qn2c3ns2bgnr077hf5vsm753l_20231230",
+    "status": "confirmed",
+    "htmlLink": "https://www.google.com/calendar/event?eid=MHFuMmMzbnMyYmducjA3N2hmNXZzbTc1M2xfMjAyMzEyMzAgNW9pdW1hODJkanI2czY5NHNpbDI4bTFiYXNAZw",
+    "created": "2022-02-05T05:30:31.000Z",
+    "updated": "2022-02-05T05:30:57.966Z",
+    "summary": "San Gabriel Mountains Trailbuilders",
+    "description": "<font><p>The San Gabriel Mountains Trailbuilders work the 1st, 3rd, and 5th Saturday of every month, and we work special projects which are not scheduled. Please email us to get on to the mailinglist to keep informed about scheduled and special projects! Email Ben at<a href=\"mailto:bwootenwhite@hotmail.com\">bwootenwhite@hotmail.com</a></p></font>",
+    "creator": {
+      "email": "machikoyasuda@gmail.com"
+    },
+    "organizer": {
+      "email": "5oiuma82djr6s694sil28m1bas@group.calendar.google.com",
+      "displayName": "TrailAngeles Events",
+      "self": true
+    },
+    "start": {
+      "date": "2023-12-30"
+    },
+    "end": {
+      "date": "2023-12-31"
+    },
+    "recurringEventId": "0qn2c3ns2bgnr077hf5vsm753l",
+    "originalStartTime": {
+      "date": "2023-12-30"
+    },
+    "transparency": "transparent",
+    "iCalUID": "0qn2c3ns2bgnr077hf5vsm753l@google.com",
+    "sequence": 0,
+    "reminders": {
+      "useDefault": false
+    },
+    "eventType": "default"
+  },
+  {
+    "kind": "calendar#event",
+    "etag": "\"3288078091130000\"",
+    "id": "594mshiad2ng876696f04ajgtm_20240106",
+    "status": "confirmed",
+    "htmlLink": "https://www.google.com/calendar/event?eid=NTk0bXNoaWFkMm5nODc2Njk2ZjA0YWpndG1fMjAyNDAxMDYgNW9pdW1hODJkanI2czY5NHNpbDI4bTFiYXNAZw",
+    "created": "2022-02-05T05:29:37.000Z",
+    "updated": "2022-02-05T05:30:45.565Z",
+    "summary": "San Gabriel Mountains Trailbuilders",
+    "description": "<font><p>The San Gabriel Mountains Trailbuilders work the 1st, 3rd, and 5th Saturday of every month, and we work special projects which are not scheduled. Please email us to get on to the mailinglist to keep informed about scheduled and special projects! Email Ben at<a href=\"mailto:bwootenwhite@hotmail.com\">bwootenwhite@hotmail.com</a><b></b></p></font>",
+    "creator": {
+      "email": "machikoyasuda@gmail.com"
+    },
+    "organizer": {
+      "email": "5oiuma82djr6s694sil28m1bas@group.calendar.google.com",
+      "displayName": "TrailAngeles Events",
+      "self": true
+    },
+    "start": {
+      "date": "2024-01-06"
+    },
+    "end": {
+      "date": "2024-01-07"
+    },
+    "recurringEventId": "594mshiad2ng876696f04ajgtm",
+    "originalStartTime": {
+      "date": "2024-01-06"
+    },
+    "transparency": "transparent",
+    "iCalUID": "594mshiad2ng876696f04ajgtm@google.com",
+    "sequence": 0,
+    "reminders": {
+      "useDefault": false
+    },
+    "eventType": "default"
+  },
+  {
+    "kind": "calendar#event",
+    "etag": "\"3288078103270000\"",
+    "id": "1cnrei1qrdq2tt21huj3l2103n_20240120",
+    "status": "confirmed",
+    "htmlLink": "https://www.google.com/calendar/event?eid=MWNucmVpMXFyZHEydHQyMWh1ajNsMjEwM25fMjAyNDAxMjAgNW9pdW1hODJkanI2czY5NHNpbDI4bTFiYXNAZw",
+    "created": "2022-02-05T05:29:49.000Z",
+    "updated": "2022-02-05T05:30:51.635Z",
+    "summary": "San Gabriel Mountains Trailbuilders",
+    "description": "<span><br><font><p>The San Gabriel Mountains Trailbuilders work the 1st, 3rd, and 5th Saturday of every month, and we work special projects which are not scheduled. Please email us to get on to the mailinglist to keep informed about scheduled and special projects! Email Ben at<a href=\"mailto:bwootenwhite@hotmail.com\">bwootenwhite@hotmail.com</a><b></b></p></font></span>",
+    "creator": {
+      "email": "machikoyasuda@gmail.com"
+    },
+    "organizer": {
+      "email": "5oiuma82djr6s694sil28m1bas@group.calendar.google.com",
+      "displayName": "TrailAngeles Events",
+      "self": true
+    },
+    "start": {
+      "date": "2024-01-20"
+    },
+    "end": {
+      "date": "2024-01-21"
+    },
+    "recurringEventId": "1cnrei1qrdq2tt21huj3l2103n",
+    "originalStartTime": {
+      "date": "2024-01-20"
+    },
+    "transparency": "transparent",
+    "iCalUID": "1cnrei1qrdq2tt21huj3l2103n@google.com",
+    "sequence": 0,
+    "reminders": {
+      "useDefault": false
+    },
+    "eventType": "default"
+  },
+  {
+    "kind": "calendar#event",
+    "etag": "\"3288078115932000\"",
+    "id": "0qn2c3ns2bgnr077hf5vsm753l_20240127",
+    "status": "confirmed",
+    "htmlLink": "https://www.google.com/calendar/event?eid=MHFuMmMzbnMyYmducjA3N2hmNXZzbTc1M2xfMjAyNDAxMjcgNW9pdW1hODJkanI2czY5NHNpbDI4bTFiYXNAZw",
+    "created": "2022-02-05T05:30:31.000Z",
+    "updated": "2022-02-05T05:30:57.966Z",
+    "summary": "San Gabriel Mountains Trailbuilders",
+    "description": "<font><p>The San Gabriel Mountains Trailbuilders work the 1st, 3rd, and 5th Saturday of every month, and we work special projects which are not scheduled. Please email us to get on to the mailinglist to keep informed about scheduled and special projects! Email Ben at<a href=\"mailto:bwootenwhite@hotmail.com\">bwootenwhite@hotmail.com</a></p></font>",
+    "creator": {
+      "email": "machikoyasuda@gmail.com"
+    },
+    "organizer": {
+      "email": "5oiuma82djr6s694sil28m1bas@group.calendar.google.com",
+      "displayName": "TrailAngeles Events",
+      "self": true
+    },
+    "start": {
+      "date": "2024-01-27"
+    },
+    "end": {
+      "date": "2024-01-28"
+    },
+    "recurringEventId": "0qn2c3ns2bgnr077hf5vsm753l",
+    "originalStartTime": {
+      "date": "2024-01-27"
+    },
+    "transparency": "transparent",
+    "iCalUID": "0qn2c3ns2bgnr077hf5vsm753l@google.com",
+    "sequence": 0,
+    "reminders": {
+      "useDefault": false
+    },
+    "eventType": "default"
+  },
+  {
+    "kind": "calendar#event",
+    "etag": "\"3288078091130000\"",
+    "id": "594mshiad2ng876696f04ajgtm_20240203",
+    "status": "confirmed",
+    "htmlLink": "https://www.google.com/calendar/event?eid=NTk0bXNoaWFkMm5nODc2Njk2ZjA0YWpndG1fMjAyNDAyMDMgNW9pdW1hODJkanI2czY5NHNpbDI4bTFiYXNAZw",
+    "created": "2022-02-05T05:29:37.000Z",
+    "updated": "2022-02-05T05:30:45.565Z",
+    "summary": "San Gabriel Mountains Trailbuilders",
+    "description": "<font><p>The San Gabriel Mountains Trailbuilders work the 1st, 3rd, and 5th Saturday of every month, and we work special projects which are not scheduled. Please email us to get on to the mailinglist to keep informed about scheduled and special projects! Email Ben at<a href=\"mailto:bwootenwhite@hotmail.com\">bwootenwhite@hotmail.com</a><b></b></p></font>",
+    "creator": {
+      "email": "machikoyasuda@gmail.com"
+    },
+    "organizer": {
+      "email": "5oiuma82djr6s694sil28m1bas@group.calendar.google.com",
+      "displayName": "TrailAngeles Events",
+      "self": true
+    },
+    "start": {
+      "date": "2024-02-03"
+    },
+    "end": {
+      "date": "2024-02-04"
+    },
+    "recurringEventId": "594mshiad2ng876696f04ajgtm",
+    "originalStartTime": {
+      "date": "2024-02-03"
+    },
+    "transparency": "transparent",
+    "iCalUID": "594mshiad2ng876696f04ajgtm@google.com",
+    "sequence": 0,
+    "reminders": {
+      "useDefault": false
+    },
+    "eventType": "default"
+  },
+  {
+    "kind": "calendar#event",
+    "etag": "\"3288078103270000\"",
+    "id": "1cnrei1qrdq2tt21huj3l2103n_20240217",
+    "status": "confirmed",
+    "htmlLink": "https://www.google.com/calendar/event?eid=MWNucmVpMXFyZHEydHQyMWh1ajNsMjEwM25fMjAyNDAyMTcgNW9pdW1hODJkanI2czY5NHNpbDI4bTFiYXNAZw",
+    "created": "2022-02-05T05:29:49.000Z",
+    "updated": "2022-02-05T05:30:51.635Z",
+    "summary": "San Gabriel Mountains Trailbuilders",
+    "description": "<span><br><font><p>The San Gabriel Mountains Trailbuilders work the 1st, 3rd, and 5th Saturday of every month, and we work special projects which are not scheduled. Please email us to get on to the mailinglist to keep informed about scheduled and special projects! Email Ben at<a href=\"mailto:bwootenwhite@hotmail.com\">bwootenwhite@hotmail.com</a><b></b></p></font></span>",
+    "creator": {
+      "email": "machikoyasuda@gmail.com"
+    },
+    "organizer": {
+      "email": "5oiuma82djr6s694sil28m1bas@group.calendar.google.com",
+      "displayName": "TrailAngeles Events",
+      "self": true
+    },
+    "start": {
+      "date": "2024-02-17"
+    },
+    "end": {
+      "date": "2024-02-18"
+    },
+    "recurringEventId": "1cnrei1qrdq2tt21huj3l2103n",
+    "originalStartTime": {
+      "date": "2024-02-17"
+    },
+    "transparency": "transparent",
+    "iCalUID": "1cnrei1qrdq2tt21huj3l2103n@google.com",
+    "sequence": 0,
+    "reminders": {
+      "useDefault": false
+    },
+    "eventType": "default"
+  },
+  {
+    "kind": "calendar#event",
+    "etag": "\"3288078115932000\"",
+    "id": "0qn2c3ns2bgnr077hf5vsm753l_20240224",
+    "status": "confirmed",
+    "htmlLink": "https://www.google.com/calendar/event?eid=MHFuMmMzbnMyYmducjA3N2hmNXZzbTc1M2xfMjAyNDAyMjQgNW9pdW1hODJkanI2czY5NHNpbDI4bTFiYXNAZw",
+    "created": "2022-02-05T05:30:31.000Z",
+    "updated": "2022-02-05T05:30:57.966Z",
+    "summary": "San Gabriel Mountains Trailbuilders",
+    "description": "<font><p>The San Gabriel Mountains Trailbuilders work the 1st, 3rd, and 5th Saturday of every month, and we work special projects which are not scheduled. Please email us to get on to the mailinglist to keep informed about scheduled and special projects! Email Ben at<a href=\"mailto:bwootenwhite@hotmail.com\">bwootenwhite@hotmail.com</a></p></font>",
+    "creator": {
+      "email": "machikoyasuda@gmail.com"
+    },
+    "organizer": {
+      "email": "5oiuma82djr6s694sil28m1bas@group.calendar.google.com",
+      "displayName": "TrailAngeles Events",
+      "self": true
+    },
+    "start": {
+      "date": "2024-02-24"
+    },
+    "end": {
+      "date": "2024-02-25"
+    },
+    "recurringEventId": "0qn2c3ns2bgnr077hf5vsm753l",
+    "originalStartTime": {
+      "date": "2024-02-24"
+    },
+    "transparency": "transparent",
+    "iCalUID": "0qn2c3ns2bgnr077hf5vsm753l@google.com",
+    "sequence": 0,
+    "reminders": {
+      "useDefault": false
+    },
+    "eventType": "default"
+  },
+  {
+    "kind": "calendar#event",
+    "etag": "\"3288078091130000\"",
+    "id": "594mshiad2ng876696f04ajgtm_20240302",
+    "status": "confirmed",
+    "htmlLink": "https://www.google.com/calendar/event?eid=NTk0bXNoaWFkMm5nODc2Njk2ZjA0YWpndG1fMjAyNDAzMDIgNW9pdW1hODJkanI2czY5NHNpbDI4bTFiYXNAZw",
+    "created": "2022-02-05T05:29:37.000Z",
+    "updated": "2022-02-05T05:30:45.565Z",
+    "summary": "San Gabriel Mountains Trailbuilders",
+    "description": "<font><p>The San Gabriel Mountains Trailbuilders work the 1st, 3rd, and 5th Saturday of every month, and we work special projects which are not scheduled. Please email us to get on to the mailinglist to keep informed about scheduled and special projects! Email Ben at<a href=\"mailto:bwootenwhite@hotmail.com\">bwootenwhite@hotmail.com</a><b></b></p></font>",
+    "creator": {
+      "email": "machikoyasuda@gmail.com"
+    },
+    "organizer": {
+      "email": "5oiuma82djr6s694sil28m1bas@group.calendar.google.com",
+      "displayName": "TrailAngeles Events",
+      "self": true
+    },
+    "start": {
+      "date": "2024-03-02"
+    },
+    "end": {
+      "date": "2024-03-03"
+    },
+    "recurringEventId": "594mshiad2ng876696f04ajgtm",
+    "originalStartTime": {
+      "date": "2024-03-02"
+    },
+    "transparency": "transparent",
+    "iCalUID": "594mshiad2ng876696f04ajgtm@google.com",
+    "sequence": 0,
+    "reminders": {
+      "useDefault": false
+    },
+    "eventType": "default"
+  },
+  {
+    "kind": "calendar#event",
+    "etag": "\"3288078103270000\"",
+    "id": "1cnrei1qrdq2tt21huj3l2103n_20240316",
+    "status": "confirmed",
+    "htmlLink": "https://www.google.com/calendar/event?eid=MWNucmVpMXFyZHEydHQyMWh1ajNsMjEwM25fMjAyNDAzMTYgNW9pdW1hODJkanI2czY5NHNpbDI4bTFiYXNAZw",
+    "created": "2022-02-05T05:29:49.000Z",
+    "updated": "2022-02-05T05:30:51.635Z",
+    "summary": "San Gabriel Mountains Trailbuilders",
+    "description": "<span><br><font><p>The San Gabriel Mountains Trailbuilders work the 1st, 3rd, and 5th Saturday of every month, and we work special projects which are not scheduled. Please email us to get on to the mailinglist to keep informed about scheduled and special projects! Email Ben at<a href=\"mailto:bwootenwhite@hotmail.com\">bwootenwhite@hotmail.com</a><b></b></p></font></span>",
+    "creator": {
+      "email": "machikoyasuda@gmail.com"
+    },
+    "organizer": {
+      "email": "5oiuma82djr6s694sil28m1bas@group.calendar.google.com",
+      "displayName": "TrailAngeles Events",
+      "self": true
+    },
+    "start": {
+      "date": "2024-03-16"
+    },
+    "end": {
+      "date": "2024-03-17"
+    },
+    "recurringEventId": "1cnrei1qrdq2tt21huj3l2103n",
+    "originalStartTime": {
+      "date": "2024-03-16"
+    },
+    "transparency": "transparent",
+    "iCalUID": "1cnrei1qrdq2tt21huj3l2103n@google.com",
+    "sequence": 0,
+    "reminders": {
+      "useDefault": false
+    },
+    "eventType": "default"
+  },
+  {
+    "kind": "calendar#event",
+    "etag": "\"3288078115932000\"",
+    "id": "0qn2c3ns2bgnr077hf5vsm753l_20240330",
+    "status": "confirmed",
+    "htmlLink": "https://www.google.com/calendar/event?eid=MHFuMmMzbnMyYmducjA3N2hmNXZzbTc1M2xfMjAyNDAzMzAgNW9pdW1hODJkanI2czY5NHNpbDI4bTFiYXNAZw",
+    "created": "2022-02-05T05:30:31.000Z",
+    "updated": "2022-02-05T05:30:57.966Z",
+    "summary": "San Gabriel Mountains Trailbuilders",
+    "description": "<font><p>The San Gabriel Mountains Trailbuilders work the 1st, 3rd, and 5th Saturday of every month, and we work special projects which are not scheduled. Please email us to get on to the mailinglist to keep informed about scheduled and special projects! Email Ben at<a href=\"mailto:bwootenwhite@hotmail.com\">bwootenwhite@hotmail.com</a></p></font>",
+    "creator": {
+      "email": "machikoyasuda@gmail.com"
+    },
+    "organizer": {
+      "email": "5oiuma82djr6s694sil28m1bas@group.calendar.google.com",
+      "displayName": "TrailAngeles Events",
+      "self": true
+    },
+    "start": {
+      "date": "2024-03-30"
+    },
+    "end": {
+      "date": "2024-03-31"
+    },
+    "recurringEventId": "0qn2c3ns2bgnr077hf5vsm753l",
+    "originalStartTime": {
+      "date": "2024-03-30"
+    },
+    "transparency": "transparent",
+    "iCalUID": "0qn2c3ns2bgnr077hf5vsm753l@google.com",
+    "sequence": 0,
+    "reminders": {
+      "useDefault": false
+    },
+    "eventType": "default"
+  },
+  {
+    "kind": "calendar#event",
+    "etag": "\"3288078091130000\"",
+    "id": "594mshiad2ng876696f04ajgtm_20240406",
+    "status": "confirmed",
+    "htmlLink": "https://www.google.com/calendar/event?eid=NTk0bXNoaWFkMm5nODc2Njk2ZjA0YWpndG1fMjAyNDA0MDYgNW9pdW1hODJkanI2czY5NHNpbDI4bTFiYXNAZw",
+    "created": "2022-02-05T05:29:37.000Z",
+    "updated": "2022-02-05T05:30:45.565Z",
+    "summary": "San Gabriel Mountains Trailbuilders",
+    "description": "<font><p>The San Gabriel Mountains Trailbuilders work the 1st, 3rd, and 5th Saturday of every month, and we work special projects which are not scheduled. Please email us to get on to the mailinglist to keep informed about scheduled and special projects! Email Ben at<a href=\"mailto:bwootenwhite@hotmail.com\">bwootenwhite@hotmail.com</a><b></b></p></font>",
+    "creator": {
+      "email": "machikoyasuda@gmail.com"
+    },
+    "organizer": {
+      "email": "5oiuma82djr6s694sil28m1bas@group.calendar.google.com",
+      "displayName": "TrailAngeles Events",
+      "self": true
+    },
+    "start": {
+      "date": "2024-04-06"
+    },
+    "end": {
+      "date": "2024-04-07"
+    },
+    "recurringEventId": "594mshiad2ng876696f04ajgtm",
+    "originalStartTime": {
+      "date": "2024-04-06"
+    },
+    "transparency": "transparent",
+    "iCalUID": "594mshiad2ng876696f04ajgtm@google.com",
+    "sequence": 0,
+    "reminders": {
+      "useDefault": false
+    },
+    "eventType": "default"
+  },
+  {
+    "kind": "calendar#event",
+    "etag": "\"3288078103270000\"",
+    "id": "1cnrei1qrdq2tt21huj3l2103n_20240420",
+    "status": "confirmed",
+    "htmlLink": "https://www.google.com/calendar/event?eid=MWNucmVpMXFyZHEydHQyMWh1ajNsMjEwM25fMjAyNDA0MjAgNW9pdW1hODJkanI2czY5NHNpbDI4bTFiYXNAZw",
+    "created": "2022-02-05T05:29:49.000Z",
+    "updated": "2022-02-05T05:30:51.635Z",
+    "summary": "San Gabriel Mountains Trailbuilders",
+    "description": "<span><br><font><p>The San Gabriel Mountains Trailbuilders work the 1st, 3rd, and 5th Saturday of every month, and we work special projects which are not scheduled. Please email us to get on to the mailinglist to keep informed about scheduled and special projects! Email Ben at<a href=\"mailto:bwootenwhite@hotmail.com\">bwootenwhite@hotmail.com</a><b></b></p></font></span>",
+    "creator": {
+      "email": "machikoyasuda@gmail.com"
+    },
+    "organizer": {
+      "email": "5oiuma82djr6s694sil28m1bas@group.calendar.google.com",
+      "displayName": "TrailAngeles Events",
+      "self": true
+    },
+    "start": {
+      "date": "2024-04-20"
+    },
+    "end": {
+      "date": "2024-04-21"
+    },
+    "recurringEventId": "1cnrei1qrdq2tt21huj3l2103n",
+    "originalStartTime": {
+      "date": "2024-04-20"
+    },
+    "transparency": "transparent",
+    "iCalUID": "1cnrei1qrdq2tt21huj3l2103n@google.com",
+    "sequence": 0,
+    "reminders": {
+      "useDefault": false
+    },
+    "eventType": "default"
+  },
+  {
+    "kind": "calendar#event",
+    "etag": "\"3288078115932000\"",
+    "id": "0qn2c3ns2bgnr077hf5vsm753l_20240427",
+    "status": "confirmed",
+    "htmlLink": "https://www.google.com/calendar/event?eid=MHFuMmMzbnMyYmducjA3N2hmNXZzbTc1M2xfMjAyNDA0MjcgNW9pdW1hODJkanI2czY5NHNpbDI4bTFiYXNAZw",
+    "created": "2022-02-05T05:30:31.000Z",
+    "updated": "2022-02-05T05:30:57.966Z",
+    "summary": "San Gabriel Mountains Trailbuilders",
+    "description": "<font><p>The San Gabriel Mountains Trailbuilders work the 1st, 3rd, and 5th Saturday of every month, and we work special projects which are not scheduled. Please email us to get on to the mailinglist to keep informed about scheduled and special projects! Email Ben at<a href=\"mailto:bwootenwhite@hotmail.com\">bwootenwhite@hotmail.com</a></p></font>",
+    "creator": {
+      "email": "machikoyasuda@gmail.com"
+    },
+    "organizer": {
+      "email": "5oiuma82djr6s694sil28m1bas@group.calendar.google.com",
+      "displayName": "TrailAngeles Events",
+      "self": true
+    },
+    "start": {
+      "date": "2024-04-27"
+    },
+    "end": {
+      "date": "2024-04-28"
+    },
+    "recurringEventId": "0qn2c3ns2bgnr077hf5vsm753l",
+    "originalStartTime": {
+      "date": "2024-04-27"
+    },
+    "transparency": "transparent",
+    "iCalUID": "0qn2c3ns2bgnr077hf5vsm753l@google.com",
+    "sequence": 0,
+    "reminders": {
+      "useDefault": false
+    },
+    "eventType": "default"
+  },
+  {
+    "kind": "calendar#event",
+    "etag": "\"3288078091130000\"",
+    "id": "594mshiad2ng876696f04ajgtm_20240504",
+    "status": "confirmed",
+    "htmlLink": "https://www.google.com/calendar/event?eid=NTk0bXNoaWFkMm5nODc2Njk2ZjA0YWpndG1fMjAyNDA1MDQgNW9pdW1hODJkanI2czY5NHNpbDI4bTFiYXNAZw",
+    "created": "2022-02-05T05:29:37.000Z",
+    "updated": "2022-02-05T05:30:45.565Z",
+    "summary": "San Gabriel Mountains Trailbuilders",
+    "description": "<font><p>The San Gabriel Mountains Trailbuilders work the 1st, 3rd, and 5th Saturday of every month, and we work special projects which are not scheduled. Please email us to get on to the mailinglist to keep informed about scheduled and special projects! Email Ben at<a href=\"mailto:bwootenwhite@hotmail.com\">bwootenwhite@hotmail.com</a><b></b></p></font>",
+    "creator": {
+      "email": "machikoyasuda@gmail.com"
+    },
+    "organizer": {
+      "email": "5oiuma82djr6s694sil28m1bas@group.calendar.google.com",
+      "displayName": "TrailAngeles Events",
+      "self": true
+    },
+    "start": {
+      "date": "2024-05-04"
+    },
+    "end": {
+      "date": "2024-05-05"
+    },
+    "recurringEventId": "594mshiad2ng876696f04ajgtm",
+    "originalStartTime": {
+      "date": "2024-05-04"
+    },
+    "transparency": "transparent",
+    "iCalUID": "594mshiad2ng876696f04ajgtm@google.com",
+    "sequence": 0,
+    "reminders": {
+      "useDefault": false
+    },
+    "eventType": "default"
+  },
+  {
+    "kind": "calendar#event",
+    "etag": "\"3288078103270000\"",
+    "id": "1cnrei1qrdq2tt21huj3l2103n_20240518",
+    "status": "confirmed",
+    "htmlLink": "https://www.google.com/calendar/event?eid=MWNucmVpMXFyZHEydHQyMWh1ajNsMjEwM25fMjAyNDA1MTggNW9pdW1hODJkanI2czY5NHNpbDI4bTFiYXNAZw",
+    "created": "2022-02-05T05:29:49.000Z",
+    "updated": "2022-02-05T05:30:51.635Z",
+    "summary": "San Gabriel Mountains Trailbuilders",
+    "description": "<span><br><font><p>The San Gabriel Mountains Trailbuilders work the 1st, 3rd, and 5th Saturday of every month, and we work special projects which are not scheduled. Please email us to get on to the mailinglist to keep informed about scheduled and special projects! Email Ben at<a href=\"mailto:bwootenwhite@hotmail.com\">bwootenwhite@hotmail.com</a><b></b></p></font></span>",
+    "creator": {
+      "email": "machikoyasuda@gmail.com"
+    },
+    "organizer": {
+      "email": "5oiuma82djr6s694sil28m1bas@group.calendar.google.com",
+      "displayName": "TrailAngeles Events",
+      "self": true
+    },
+    "start": {
+      "date": "2024-05-18"
+    },
+    "end": {
+      "date": "2024-05-19"
+    },
+    "recurringEventId": "1cnrei1qrdq2tt21huj3l2103n",
+    "originalStartTime": {
+      "date": "2024-05-18"
+    },
+    "transparency": "transparent",
+    "iCalUID": "1cnrei1qrdq2tt21huj3l2103n@google.com",
+    "sequence": 0,
+    "reminders": {
+      "useDefault": false
+    },
+    "eventType": "default"
+  },
+  {
+    "kind": "calendar#event",
+    "etag": "\"3288078115932000\"",
+    "id": "0qn2c3ns2bgnr077hf5vsm753l_20240525",
+    "status": "confirmed",
+    "htmlLink": "https://www.google.com/calendar/event?eid=MHFuMmMzbnMyYmducjA3N2hmNXZzbTc1M2xfMjAyNDA1MjUgNW9pdW1hODJkanI2czY5NHNpbDI4bTFiYXNAZw",
+    "created": "2022-02-05T05:30:31.000Z",
+    "updated": "2022-02-05T05:30:57.966Z",
+    "summary": "San Gabriel Mountains Trailbuilders",
+    "description": "<font><p>The San Gabriel Mountains Trailbuilders work the 1st, 3rd, and 5th Saturday of every month, and we work special projects which are not scheduled. Please email us to get on to the mailinglist to keep informed about scheduled and special projects! Email Ben at<a href=\"mailto:bwootenwhite@hotmail.com\">bwootenwhite@hotmail.com</a></p></font>",
+    "creator": {
+      "email": "machikoyasuda@gmail.com"
+    },
+    "organizer": {
+      "email": "5oiuma82djr6s694sil28m1bas@group.calendar.google.com",
+      "displayName": "TrailAngeles Events",
+      "self": true
+    },
+    "start": {
+      "date": "2024-05-25"
+    },
+    "end": {
+      "date": "2024-05-26"
+    },
+    "recurringEventId": "0qn2c3ns2bgnr077hf5vsm753l",
+    "originalStartTime": {
+      "date": "2024-05-25"
+    },
+    "transparency": "transparent",
+    "iCalUID": "0qn2c3ns2bgnr077hf5vsm753l@google.com",
+    "sequence": 0,
+    "reminders": {
+      "useDefault": false
+    },
+    "eventType": "default"
+  },
+  {
+    "kind": "calendar#event",
+    "etag": "\"3288078091130000\"",
+    "id": "594mshiad2ng876696f04ajgtm_20240601",
+    "status": "confirmed",
+    "htmlLink": "https://www.google.com/calendar/event?eid=NTk0bXNoaWFkMm5nODc2Njk2ZjA0YWpndG1fMjAyNDA2MDEgNW9pdW1hODJkanI2czY5NHNpbDI4bTFiYXNAZw",
+    "created": "2022-02-05T05:29:37.000Z",
+    "updated": "2022-02-05T05:30:45.565Z",
+    "summary": "San Gabriel Mountains Trailbuilders",
+    "description": "<font><p>The San Gabriel Mountains Trailbuilders work the 1st, 3rd, and 5th Saturday of every month, and we work special projects which are not scheduled. Please email us to get on to the mailinglist to keep informed about scheduled and special projects! Email Ben at<a href=\"mailto:bwootenwhite@hotmail.com\">bwootenwhite@hotmail.com</a><b></b></p></font>",
+    "creator": {
+      "email": "machikoyasuda@gmail.com"
+    },
+    "organizer": {
+      "email": "5oiuma82djr6s694sil28m1bas@group.calendar.google.com",
+      "displayName": "TrailAngeles Events",
+      "self": true
+    },
+    "start": {
+      "date": "2024-06-01"
+    },
+    "end": {
+      "date": "2024-06-02"
+    },
+    "recurringEventId": "594mshiad2ng876696f04ajgtm",
+    "originalStartTime": {
+      "date": "2024-06-01"
+    },
+    "transparency": "transparent",
+    "iCalUID": "594mshiad2ng876696f04ajgtm@google.com",
+    "sequence": 0,
+    "reminders": {
+      "useDefault": false
+    },
+    "eventType": "default"
+  },
+  {
+    "kind": "calendar#event",
+    "etag": "\"3288078103270000\"",
+    "id": "1cnrei1qrdq2tt21huj3l2103n_20240615",
+    "status": "confirmed",
+    "htmlLink": "https://www.google.com/calendar/event?eid=MWNucmVpMXFyZHEydHQyMWh1ajNsMjEwM25fMjAyNDA2MTUgNW9pdW1hODJkanI2czY5NHNpbDI4bTFiYXNAZw",
+    "created": "2022-02-05T05:29:49.000Z",
+    "updated": "2022-02-05T05:30:51.635Z",
+    "summary": "San Gabriel Mountains Trailbuilders",
+    "description": "<span><br><font><p>The San Gabriel Mountains Trailbuilders work the 1st, 3rd, and 5th Saturday of every month, and we work special projects which are not scheduled. Please email us to get on to the mailinglist to keep informed about scheduled and special projects! Email Ben at<a href=\"mailto:bwootenwhite@hotmail.com\">bwootenwhite@hotmail.com</a><b></b></p></font></span>",
+    "creator": {
+      "email": "machikoyasuda@gmail.com"
+    },
+    "organizer": {
+      "email": "5oiuma82djr6s694sil28m1bas@group.calendar.google.com",
+      "displayName": "TrailAngeles Events",
+      "self": true
+    },
+    "start": {
+      "date": "2024-06-15"
+    },
+    "end": {
+      "date": "2024-06-16"
+    },
+    "recurringEventId": "1cnrei1qrdq2tt21huj3l2103n",
+    "originalStartTime": {
+      "date": "2024-06-15"
+    },
+    "transparency": "transparent",
+    "iCalUID": "1cnrei1qrdq2tt21huj3l2103n@google.com",
+    "sequence": 0,
+    "reminders": {
+      "useDefault": false
+    },
+    "eventType": "default"
+  },
+  {
+    "kind": "calendar#event",
+    "etag": "\"3288078115932000\"",
+    "id": "0qn2c3ns2bgnr077hf5vsm753l_20240629",
+    "status": "confirmed",
+    "htmlLink": "https://www.google.com/calendar/event?eid=MHFuMmMzbnMyYmducjA3N2hmNXZzbTc1M2xfMjAyNDA2MjkgNW9pdW1hODJkanI2czY5NHNpbDI4bTFiYXNAZw",
+    "created": "2022-02-05T05:30:31.000Z",
+    "updated": "2022-02-05T05:30:57.966Z",
+    "summary": "San Gabriel Mountains Trailbuilders",
+    "description": "<font><p>The San Gabriel Mountains Trailbuilders work the 1st, 3rd, and 5th Saturday of every month, and we work special projects which are not scheduled. Please email us to get on to the mailinglist to keep informed about scheduled and special projects! Email Ben at<a href=\"mailto:bwootenwhite@hotmail.com\">bwootenwhite@hotmail.com</a></p></font>",
+    "creator": {
+      "email": "machikoyasuda@gmail.com"
+    },
+    "organizer": {
+      "email": "5oiuma82djr6s694sil28m1bas@group.calendar.google.com",
+      "displayName": "TrailAngeles Events",
+      "self": true
+    },
+    "start": {
+      "date": "2024-06-29"
+    },
+    "end": {
+      "date": "2024-06-30"
+    },
+    "recurringEventId": "0qn2c3ns2bgnr077hf5vsm753l",
+    "originalStartTime": {
+      "date": "2024-06-29"
+    },
+    "transparency": "transparent",
+    "iCalUID": "0qn2c3ns2bgnr077hf5vsm753l@google.com",
+    "sequence": 0,
+    "reminders": {
+      "useDefault": false
+    },
+    "eventType": "default"
+  },
+  {
+    "kind": "calendar#event",
+    "etag": "\"3288078091130000\"",
+    "id": "594mshiad2ng876696f04ajgtm_20240706",
+    "status": "confirmed",
+    "htmlLink": "https://www.google.com/calendar/event?eid=NTk0bXNoaWFkMm5nODc2Njk2ZjA0YWpndG1fMjAyNDA3MDYgNW9pdW1hODJkanI2czY5NHNpbDI4bTFiYXNAZw",
+    "created": "2022-02-05T05:29:37.000Z",
+    "updated": "2022-02-05T05:30:45.565Z",
+    "summary": "San Gabriel Mountains Trailbuilders",
+    "description": "<font><p>The San Gabriel Mountains Trailbuilders work the 1st, 3rd, and 5th Saturday of every month, and we work special projects which are not scheduled. Please email us to get on to the mailinglist to keep informed about scheduled and special projects! Email Ben at<a href=\"mailto:bwootenwhite@hotmail.com\">bwootenwhite@hotmail.com</a><b></b></p></font>",
+    "creator": {
+      "email": "machikoyasuda@gmail.com"
+    },
+    "organizer": {
+      "email": "5oiuma82djr6s694sil28m1bas@group.calendar.google.com",
+      "displayName": "TrailAngeles Events",
+      "self": true
+    },
+    "start": {
+      "date": "2024-07-06"
+    },
+    "end": {
+      "date": "2024-07-07"
+    },
+    "recurringEventId": "594mshiad2ng876696f04ajgtm",
+    "originalStartTime": {
+      "date": "2024-07-06"
+    },
+    "transparency": "transparent",
+    "iCalUID": "594mshiad2ng876696f04ajgtm@google.com",
+    "sequence": 0,
+    "reminders": {
+      "useDefault": false
+    },
+    "eventType": "default"
+  },
+  {
+    "kind": "calendar#event",
+    "etag": "\"3288078103270000\"",
+    "id": "1cnrei1qrdq2tt21huj3l2103n_20240720",
+    "status": "confirmed",
+    "htmlLink": "https://www.google.com/calendar/event?eid=MWNucmVpMXFyZHEydHQyMWh1ajNsMjEwM25fMjAyNDA3MjAgNW9pdW1hODJkanI2czY5NHNpbDI4bTFiYXNAZw",
+    "created": "2022-02-05T05:29:49.000Z",
+    "updated": "2022-02-05T05:30:51.635Z",
+    "summary": "San Gabriel Mountains Trailbuilders",
+    "description": "<span><br><font><p>The San Gabriel Mountains Trailbuilders work the 1st, 3rd, and 5th Saturday of every month, and we work special projects which are not scheduled. Please email us to get on to the mailinglist to keep informed about scheduled and special projects! Email Ben at<a href=\"mailto:bwootenwhite@hotmail.com\">bwootenwhite@hotmail.com</a><b></b></p></font></span>",
+    "creator": {
+      "email": "machikoyasuda@gmail.com"
+    },
+    "organizer": {
+      "email": "5oiuma82djr6s694sil28m1bas@group.calendar.google.com",
+      "displayName": "TrailAngeles Events",
+      "self": true
+    },
+    "start": {
+      "date": "2024-07-20"
+    },
+    "end": {
+      "date": "2024-07-21"
+    },
+    "recurringEventId": "1cnrei1qrdq2tt21huj3l2103n",
+    "originalStartTime": {
+      "date": "2024-07-20"
+    },
+    "transparency": "transparent",
+    "iCalUID": "1cnrei1qrdq2tt21huj3l2103n@google.com",
+    "sequence": 0,
+    "reminders": {
+      "useDefault": false
+    },
+    "eventType": "default"
+  },
+  {
+    "kind": "calendar#event",
+    "etag": "\"3288078115932000\"",
+    "id": "0qn2c3ns2bgnr077hf5vsm753l_20240727",
+    "status": "confirmed",
+    "htmlLink": "https://www.google.com/calendar/event?eid=MHFuMmMzbnMyYmducjA3N2hmNXZzbTc1M2xfMjAyNDA3MjcgNW9pdW1hODJkanI2czY5NHNpbDI4bTFiYXNAZw",
+    "created": "2022-02-05T05:30:31.000Z",
+    "updated": "2022-02-05T05:30:57.966Z",
+    "summary": "San Gabriel Mountains Trailbuilders",
+    "description": "<font><p>The San Gabriel Mountains Trailbuilders work the 1st, 3rd, and 5th Saturday of every month, and we work special projects which are not scheduled. Please email us to get on to the mailinglist to keep informed about scheduled and special projects! Email Ben at<a href=\"mailto:bwootenwhite@hotmail.com\">bwootenwhite@hotmail.com</a></p></font>",
+    "creator": {
+      "email": "machikoyasuda@gmail.com"
+    },
+    "organizer": {
+      "email": "5oiuma82djr6s694sil28m1bas@group.calendar.google.com",
+      "displayName": "TrailAngeles Events",
+      "self": true
+    },
+    "start": {
+      "date": "2024-07-27"
+    },
+    "end": {
+      "date": "2024-07-28"
+    },
+    "recurringEventId": "0qn2c3ns2bgnr077hf5vsm753l",
+    "originalStartTime": {
+      "date": "2024-07-27"
+    },
+    "transparency": "transparent",
+    "iCalUID": "0qn2c3ns2bgnr077hf5vsm753l@google.com",
+    "sequence": 0,
+    "reminders": {
+      "useDefault": false
+    },
+    "eventType": "default"
+  },
+  {
+    "kind": "calendar#event",
+    "etag": "\"3288078091130000\"",
+    "id": "594mshiad2ng876696f04ajgtm_20240803",
+    "status": "confirmed",
+    "htmlLink": "https://www.google.com/calendar/event?eid=NTk0bXNoaWFkMm5nODc2Njk2ZjA0YWpndG1fMjAyNDA4MDMgNW9pdW1hODJkanI2czY5NHNpbDI4bTFiYXNAZw",
+    "created": "2022-02-05T05:29:37.000Z",
+    "updated": "2022-02-05T05:30:45.565Z",
+    "summary": "San Gabriel Mountains Trailbuilders",
+    "description": "<font><p>The San Gabriel Mountains Trailbuilders work the 1st, 3rd, and 5th Saturday of every month, and we work special projects which are not scheduled. Please email us to get on to the mailinglist to keep informed about scheduled and special projects! Email Ben at<a href=\"mailto:bwootenwhite@hotmail.com\">bwootenwhite@hotmail.com</a><b></b></p></font>",
+    "creator": {
+      "email": "machikoyasuda@gmail.com"
+    },
+    "organizer": {
+      "email": "5oiuma82djr6s694sil28m1bas@group.calendar.google.com",
+      "displayName": "TrailAngeles Events",
+      "self": true
+    },
+    "start": {
+      "date": "2024-08-03"
+    },
+    "end": {
+      "date": "2024-08-04"
+    },
+    "recurringEventId": "594mshiad2ng876696f04ajgtm",
+    "originalStartTime": {
+      "date": "2024-08-03"
+    },
+    "transparency": "transparent",
+    "iCalUID": "594mshiad2ng876696f04ajgtm@google.com",
+    "sequence": 0,
+    "reminders": {
+      "useDefault": false
+    },
+    "eventType": "default"
+  },
+  {
+    "kind": "calendar#event",
+    "etag": "\"3288078103270000\"",
+    "id": "1cnrei1qrdq2tt21huj3l2103n_20240817",
+    "status": "confirmed",
+    "htmlLink": "https://www.google.com/calendar/event?eid=MWNucmVpMXFyZHEydHQyMWh1ajNsMjEwM25fMjAyNDA4MTcgNW9pdW1hODJkanI2czY5NHNpbDI4bTFiYXNAZw",
+    "created": "2022-02-05T05:29:49.000Z",
+    "updated": "2022-02-05T05:30:51.635Z",
+    "summary": "San Gabriel Mountains Trailbuilders",
+    "description": "<span><br><font><p>The San Gabriel Mountains Trailbuilders work the 1st, 3rd, and 5th Saturday of every month, and we work special projects which are not scheduled. Please email us to get on to the mailinglist to keep informed about scheduled and special projects! Email Ben at<a href=\"mailto:bwootenwhite@hotmail.com\">bwootenwhite@hotmail.com</a><b></b></p></font></span>",
+    "creator": {
+      "email": "machikoyasuda@gmail.com"
+    },
+    "organizer": {
+      "email": "5oiuma82djr6s694sil28m1bas@group.calendar.google.com",
+      "displayName": "TrailAngeles Events",
+      "self": true
+    },
+    "start": {
+      "date": "2024-08-17"
+    },
+    "end": {
+      "date": "2024-08-18"
+    },
+    "recurringEventId": "1cnrei1qrdq2tt21huj3l2103n",
+    "originalStartTime": {
+      "date": "2024-08-17"
+    },
+    "transparency": "transparent",
+    "iCalUID": "1cnrei1qrdq2tt21huj3l2103n@google.com",
+    "sequence": 0,
+    "reminders": {
+      "useDefault": false
+    },
+    "eventType": "default"
+  },
+  {
+    "kind": "calendar#event",
+    "etag": "\"3288078115932000\"",
+    "id": "0qn2c3ns2bgnr077hf5vsm753l_20240831",
+    "status": "confirmed",
+    "htmlLink": "https://www.google.com/calendar/event?eid=MHFuMmMzbnMyYmducjA3N2hmNXZzbTc1M2xfMjAyNDA4MzEgNW9pdW1hODJkanI2czY5NHNpbDI4bTFiYXNAZw",
+    "created": "2022-02-05T05:30:31.000Z",
+    "updated": "2022-02-05T05:30:57.966Z",
+    "summary": "San Gabriel Mountains Trailbuilders",
+    "description": "<font><p>The San Gabriel Mountains Trailbuilders work the 1st, 3rd, and 5th Saturday of every month, and we work special projects which are not scheduled. Please email us to get on to the mailinglist to keep informed about scheduled and special projects! Email Ben at<a href=\"mailto:bwootenwhite@hotmail.com\">bwootenwhite@hotmail.com</a></p></font>",
+    "creator": {
+      "email": "machikoyasuda@gmail.com"
+    },
+    "organizer": {
+      "email": "5oiuma82djr6s694sil28m1bas@group.calendar.google.com",
+      "displayName": "TrailAngeles Events",
+      "self": true
+    },
+    "start": {
+      "date": "2024-08-31"
+    },
+    "end": {
+      "date": "2024-09-01"
+    },
+    "recurringEventId": "0qn2c3ns2bgnr077hf5vsm753l",
+    "originalStartTime": {
+      "date": "2024-08-31"
+    },
+    "transparency": "transparent",
+    "iCalUID": "0qn2c3ns2bgnr077hf5vsm753l@google.com",
+    "sequence": 0,
+    "reminders": {
+      "useDefault": false
+    },
+    "eventType": "default"
+  },
+  {
+    "kind": "calendar#event",
+    "etag": "\"3288078091130000\"",
+    "id": "594mshiad2ng876696f04ajgtm_20240907",
+    "status": "confirmed",
+    "htmlLink": "https://www.google.com/calendar/event?eid=NTk0bXNoaWFkMm5nODc2Njk2ZjA0YWpndG1fMjAyNDA5MDcgNW9pdW1hODJkanI2czY5NHNpbDI4bTFiYXNAZw",
+    "created": "2022-02-05T05:29:37.000Z",
+    "updated": "2022-02-05T05:30:45.565Z",
+    "summary": "San Gabriel Mountains Trailbuilders",
+    "description": "<font><p>The San Gabriel Mountains Trailbuilders work the 1st, 3rd, and 5th Saturday of every month, and we work special projects which are not scheduled. Please email us to get on to the mailinglist to keep informed about scheduled and special projects! Email Ben at<a href=\"mailto:bwootenwhite@hotmail.com\">bwootenwhite@hotmail.com</a><b></b></p></font>",
+    "creator": {
+      "email": "machikoyasuda@gmail.com"
+    },
+    "organizer": {
+      "email": "5oiuma82djr6s694sil28m1bas@group.calendar.google.com",
+      "displayName": "TrailAngeles Events",
+      "self": true
+    },
+    "start": {
+      "date": "2024-09-07"
+    },
+    "end": {
+      "date": "2024-09-08"
+    },
+    "recurringEventId": "594mshiad2ng876696f04ajgtm",
+    "originalStartTime": {
+      "date": "2024-09-07"
+    },
+    "transparency": "transparent",
+    "iCalUID": "594mshiad2ng876696f04ajgtm@google.com",
+    "sequence": 0,
+    "reminders": {
+      "useDefault": false
+    },
+    "eventType": "default"
+  },
+  {
+    "kind": "calendar#event",
+    "etag": "\"3288078103270000\"",
+    "id": "1cnrei1qrdq2tt21huj3l2103n_20240921",
+    "status": "confirmed",
+    "htmlLink": "https://www.google.com/calendar/event?eid=MWNucmVpMXFyZHEydHQyMWh1ajNsMjEwM25fMjAyNDA5MjEgNW9pdW1hODJkanI2czY5NHNpbDI4bTFiYXNAZw",
+    "created": "2022-02-05T05:29:49.000Z",
+    "updated": "2022-02-05T05:30:51.635Z",
+    "summary": "San Gabriel Mountains Trailbuilders",
+    "description": "<span><br><font><p>The San Gabriel Mountains Trailbuilders work the 1st, 3rd, and 5th Saturday of every month, and we work special projects which are not scheduled. Please email us to get on to the mailinglist to keep informed about scheduled and special projects! Email Ben at<a href=\"mailto:bwootenwhite@hotmail.com\">bwootenwhite@hotmail.com</a><b></b></p></font></span>",
+    "creator": {
+      "email": "machikoyasuda@gmail.com"
+    },
+    "organizer": {
+      "email": "5oiuma82djr6s694sil28m1bas@group.calendar.google.com",
+      "displayName": "TrailAngeles Events",
+      "self": true
+    },
+    "start": {
+      "date": "2024-09-21"
+    },
+    "end": {
+      "date": "2024-09-22"
+    },
+    "recurringEventId": "1cnrei1qrdq2tt21huj3l2103n",
+    "originalStartTime": {
+      "date": "2024-09-21"
+    },
+    "transparency": "transparent",
+    "iCalUID": "1cnrei1qrdq2tt21huj3l2103n@google.com",
+    "sequence": 0,
+    "reminders": {
+      "useDefault": false
+    },
+    "eventType": "default"
+  },
+  {
+    "kind": "calendar#event",
+    "etag": "\"3288078115932000\"",
+    "id": "0qn2c3ns2bgnr077hf5vsm753l_20240928",
+    "status": "confirmed",
+    "htmlLink": "https://www.google.com/calendar/event?eid=MHFuMmMzbnMyYmducjA3N2hmNXZzbTc1M2xfMjAyNDA5MjggNW9pdW1hODJkanI2czY5NHNpbDI4bTFiYXNAZw",
+    "created": "2022-02-05T05:30:31.000Z",
+    "updated": "2022-02-05T05:30:57.966Z",
+    "summary": "San Gabriel Mountains Trailbuilders",
+    "description": "<font><p>The San Gabriel Mountains Trailbuilders work the 1st, 3rd, and 5th Saturday of every month, and we work special projects which are not scheduled. Please email us to get on to the mailinglist to keep informed about scheduled and special projects! Email Ben at<a href=\"mailto:bwootenwhite@hotmail.com\">bwootenwhite@hotmail.com</a></p></font>",
+    "creator": {
+      "email": "machikoyasuda@gmail.com"
+    },
+    "organizer": {
+      "email": "5oiuma82djr6s694sil28m1bas@group.calendar.google.com",
+      "displayName": "TrailAngeles Events",
+      "self": true
+    },
+    "start": {
+      "date": "2024-09-28"
+    },
+    "end": {
+      "date": "2024-09-29"
+    },
+    "recurringEventId": "0qn2c3ns2bgnr077hf5vsm753l",
+    "originalStartTime": {
+      "date": "2024-09-28"
+    },
+    "transparency": "transparent",
+    "iCalUID": "0qn2c3ns2bgnr077hf5vsm753l@google.com",
+    "sequence": 0,
+    "reminders": {
+      "useDefault": false
+    },
+    "eventType": "default"
+  },
+  {
+    "kind": "calendar#event",
+    "etag": "\"3288078091130000\"",
+    "id": "594mshiad2ng876696f04ajgtm_20241005",
+    "status": "confirmed",
+    "htmlLink": "https://www.google.com/calendar/event?eid=NTk0bXNoaWFkMm5nODc2Njk2ZjA0YWpndG1fMjAyNDEwMDUgNW9pdW1hODJkanI2czY5NHNpbDI4bTFiYXNAZw",
+    "created": "2022-02-05T05:29:37.000Z",
+    "updated": "2022-02-05T05:30:45.565Z",
+    "summary": "San Gabriel Mountains Trailbuilders",
+    "description": "<font><p>The San Gabriel Mountains Trailbuilders work the 1st, 3rd, and 5th Saturday of every month, and we work special projects which are not scheduled. Please email us to get on to the mailinglist to keep informed about scheduled and special projects! Email Ben at<a href=\"mailto:bwootenwhite@hotmail.com\">bwootenwhite@hotmail.com</a><b></b></p></font>",
+    "creator": {
+      "email": "machikoyasuda@gmail.com"
+    },
+    "organizer": {
+      "email": "5oiuma82djr6s694sil28m1bas@group.calendar.google.com",
+      "displayName": "TrailAngeles Events",
+      "self": true
+    },
+    "start": {
+      "date": "2024-10-05"
+    },
+    "end": {
+      "date": "2024-10-06"
+    },
+    "recurringEventId": "594mshiad2ng876696f04ajgtm",
+    "originalStartTime": {
+      "date": "2024-10-05"
+    },
+    "transparency": "transparent",
+    "iCalUID": "594mshiad2ng876696f04ajgtm@google.com",
+    "sequence": 0,
+    "reminders": {
+      "useDefault": false
+    },
+    "eventType": "default"
+  },
+  {
+    "kind": "calendar#event",
+    "etag": "\"3288078103270000\"",
+    "id": "1cnrei1qrdq2tt21huj3l2103n_20241019",
+    "status": "confirmed",
+    "htmlLink": "https://www.google.com/calendar/event?eid=MWNucmVpMXFyZHEydHQyMWh1ajNsMjEwM25fMjAyNDEwMTkgNW9pdW1hODJkanI2czY5NHNpbDI4bTFiYXNAZw",
+    "created": "2022-02-05T05:29:49.000Z",
+    "updated": "2022-02-05T05:30:51.635Z",
+    "summary": "San Gabriel Mountains Trailbuilders",
+    "description": "<span><br><font><p>The San Gabriel Mountains Trailbuilders work the 1st, 3rd, and 5th Saturday of every month, and we work special projects which are not scheduled. Please email us to get on to the mailinglist to keep informed about scheduled and special projects! Email Ben at<a href=\"mailto:bwootenwhite@hotmail.com\">bwootenwhite@hotmail.com</a><b></b></p></font></span>",
+    "creator": {
+      "email": "machikoyasuda@gmail.com"
+    },
+    "organizer": {
+      "email": "5oiuma82djr6s694sil28m1bas@group.calendar.google.com",
+      "displayName": "TrailAngeles Events",
+      "self": true
+    },
+    "start": {
+      "date": "2024-10-19"
+    },
+    "end": {
+      "date": "2024-10-20"
+    },
+    "recurringEventId": "1cnrei1qrdq2tt21huj3l2103n",
+    "originalStartTime": {
+      "date": "2024-10-19"
+    },
+    "transparency": "transparent",
+    "iCalUID": "1cnrei1qrdq2tt21huj3l2103n@google.com",
+    "sequence": 0,
+    "reminders": {
+      "useDefault": false
+    },
+    "eventType": "default"
+  },
+  {
+    "kind": "calendar#event",
+    "etag": "\"3288078115932000\"",
+    "id": "0qn2c3ns2bgnr077hf5vsm753l_20241026",
+    "status": "confirmed",
+    "htmlLink": "https://www.google.com/calendar/event?eid=MHFuMmMzbnMyYmducjA3N2hmNXZzbTc1M2xfMjAyNDEwMjYgNW9pdW1hODJkanI2czY5NHNpbDI4bTFiYXNAZw",
+    "created": "2022-02-05T05:30:31.000Z",
+    "updated": "2022-02-05T05:30:57.966Z",
+    "summary": "San Gabriel Mountains Trailbuilders",
+    "description": "<font><p>The San Gabriel Mountains Trailbuilders work the 1st, 3rd, and 5th Saturday of every month, and we work special projects which are not scheduled. Please email us to get on to the mailinglist to keep informed about scheduled and special projects! Email Ben at<a href=\"mailto:bwootenwhite@hotmail.com\">bwootenwhite@hotmail.com</a></p></font>",
+    "creator": {
+      "email": "machikoyasuda@gmail.com"
+    },
+    "organizer": {
+      "email": "5oiuma82djr6s694sil28m1bas@group.calendar.google.com",
+      "displayName": "TrailAngeles Events",
+      "self": true
+    },
+    "start": {
+      "date": "2024-10-26"
+    },
+    "end": {
+      "date": "2024-10-27"
+    },
+    "recurringEventId": "0qn2c3ns2bgnr077hf5vsm753l",
+    "originalStartTime": {
+      "date": "2024-10-26"
+    },
+    "transparency": "transparent",
+    "iCalUID": "0qn2c3ns2bgnr077hf5vsm753l@google.com",
+    "sequence": 0,
+    "reminders": {
+      "useDefault": false
+    },
+    "eventType": "default"
+  },
+  {
+    "kind": "calendar#event",
+    "etag": "\"3288078091130000\"",
+    "id": "594mshiad2ng876696f04ajgtm_20241102",
+    "status": "confirmed",
+    "htmlLink": "https://www.google.com/calendar/event?eid=NTk0bXNoaWFkMm5nODc2Njk2ZjA0YWpndG1fMjAyNDExMDIgNW9pdW1hODJkanI2czY5NHNpbDI4bTFiYXNAZw",
+    "created": "2022-02-05T05:29:37.000Z",
+    "updated": "2022-02-05T05:30:45.565Z",
+    "summary": "San Gabriel Mountains Trailbuilders",
+    "description": "<font><p>The San Gabriel Mountains Trailbuilders work the 1st, 3rd, and 5th Saturday of every month, and we work special projects which are not scheduled. Please email us to get on to the mailinglist to keep informed about scheduled and special projects! Email Ben at<a href=\"mailto:bwootenwhite@hotmail.com\">bwootenwhite@hotmail.com</a><b></b></p></font>",
+    "creator": {
+      "email": "machikoyasuda@gmail.com"
+    },
+    "organizer": {
+      "email": "5oiuma82djr6s694sil28m1bas@group.calendar.google.com",
+      "displayName": "TrailAngeles Events",
+      "self": true
+    },
+    "start": {
+      "date": "2024-11-02"
+    },
+    "end": {
+      "date": "2024-11-03"
+    },
+    "recurringEventId": "594mshiad2ng876696f04ajgtm",
+    "originalStartTime": {
+      "date": "2024-11-02"
+    },
+    "transparency": "transparent",
+    "iCalUID": "594mshiad2ng876696f04ajgtm@google.com",
+    "sequence": 0,
+    "reminders": {
+      "useDefault": false
+    },
+    "eventType": "default"
+  },
+  {
+    "kind": "calendar#event",
+    "etag": "\"3288078103270000\"",
+    "id": "1cnrei1qrdq2tt21huj3l2103n_20241116",
+    "status": "confirmed",
+    "htmlLink": "https://www.google.com/calendar/event?eid=MWNucmVpMXFyZHEydHQyMWh1ajNsMjEwM25fMjAyNDExMTYgNW9pdW1hODJkanI2czY5NHNpbDI4bTFiYXNAZw",
+    "created": "2022-02-05T05:29:49.000Z",
+    "updated": "2022-02-05T05:30:51.635Z",
+    "summary": "San Gabriel Mountains Trailbuilders",
+    "description": "<span><br><font><p>The San Gabriel Mountains Trailbuilders work the 1st, 3rd, and 5th Saturday of every month, and we work special projects which are not scheduled. Please email us to get on to the mailinglist to keep informed about scheduled and special projects! Email Ben at<a href=\"mailto:bwootenwhite@hotmail.com\">bwootenwhite@hotmail.com</a><b></b></p></font></span>",
+    "creator": {
+      "email": "machikoyasuda@gmail.com"
+    },
+    "organizer": {
+      "email": "5oiuma82djr6s694sil28m1bas@group.calendar.google.com",
+      "displayName": "TrailAngeles Events",
+      "self": true
+    },
+    "start": {
+      "date": "2024-11-16"
+    },
+    "end": {
+      "date": "2024-11-17"
+    },
+    "recurringEventId": "1cnrei1qrdq2tt21huj3l2103n",
+    "originalStartTime": {
+      "date": "2024-11-16"
+    },
+    "transparency": "transparent",
+    "iCalUID": "1cnrei1qrdq2tt21huj3l2103n@google.com",
+    "sequence": 0,
+    "reminders": {
+      "useDefault": false
+    },
+    "eventType": "default"
+  },
+  {
+    "kind": "calendar#event",
+    "etag": "\"3288078115932000\"",
+    "id": "0qn2c3ns2bgnr077hf5vsm753l_20241130",
+    "status": "confirmed",
+    "htmlLink": "https://www.google.com/calendar/event?eid=MHFuMmMzbnMyYmducjA3N2hmNXZzbTc1M2xfMjAyNDExMzAgNW9pdW1hODJkanI2czY5NHNpbDI4bTFiYXNAZw",
+    "created": "2022-02-05T05:30:31.000Z",
+    "updated": "2022-02-05T05:30:57.966Z",
+    "summary": "San Gabriel Mountains Trailbuilders",
+    "description": "<font><p>The San Gabriel Mountains Trailbuilders work the 1st, 3rd, and 5th Saturday of every month, and we work special projects which are not scheduled. Please email us to get on to the mailinglist to keep informed about scheduled and special projects! Email Ben at<a href=\"mailto:bwootenwhite@hotmail.com\">bwootenwhite@hotmail.com</a></p></font>",
+    "creator": {
+      "email": "machikoyasuda@gmail.com"
+    },
+    "organizer": {
+      "email": "5oiuma82djr6s694sil28m1bas@group.calendar.google.com",
+      "displayName": "TrailAngeles Events",
+      "self": true
+    },
+    "start": {
+      "date": "2024-11-30"
+    },
+    "end": {
+      "date": "2024-12-01"
+    },
+    "recurringEventId": "0qn2c3ns2bgnr077hf5vsm753l",
+    "originalStartTime": {
+      "date": "2024-11-30"
+    },
+    "transparency": "transparent",
+    "iCalUID": "0qn2c3ns2bgnr077hf5vsm753l@google.com",
+    "sequence": 0,
+    "reminders": {
+      "useDefault": false
+    },
+    "eventType": "default"
+  },
+  {
+    "kind": "calendar#event",
+    "etag": "\"3288078091130000\"",
+    "id": "594mshiad2ng876696f04ajgtm_20241207",
+    "status": "confirmed",
+    "htmlLink": "https://www.google.com/calendar/event?eid=NTk0bXNoaWFkMm5nODc2Njk2ZjA0YWpndG1fMjAyNDEyMDcgNW9pdW1hODJkanI2czY5NHNpbDI4bTFiYXNAZw",
+    "created": "2022-02-05T05:29:37.000Z",
+    "updated": "2022-02-05T05:30:45.565Z",
+    "summary": "San Gabriel Mountains Trailbuilders",
+    "description": "<font><p>The San Gabriel Mountains Trailbuilders work the 1st, 3rd, and 5th Saturday of every month, and we work special projects which are not scheduled. Please email us to get on to the mailinglist to keep informed about scheduled and special projects! Email Ben at<a href=\"mailto:bwootenwhite@hotmail.com\">bwootenwhite@hotmail.com</a><b></b></p></font>",
+    "creator": {
+      "email": "machikoyasuda@gmail.com"
+    },
+    "organizer": {
+      "email": "5oiuma82djr6s694sil28m1bas@group.calendar.google.com",
+      "displayName": "TrailAngeles Events",
+      "self": true
+    },
+    "start": {
+      "date": "2024-12-07"
+    },
+    "end": {
+      "date": "2024-12-08"
+    },
+    "recurringEventId": "594mshiad2ng876696f04ajgtm",
+    "originalStartTime": {
+      "date": "2024-12-07"
+    },
+    "transparency": "transparent",
+    "iCalUID": "594mshiad2ng876696f04ajgtm@google.com",
+    "sequence": 0,
+    "reminders": {
+      "useDefault": false
+    },
+    "eventType": "default"
+  },
+  {
+    "kind": "calendar#event",
+    "etag": "\"3288078103270000\"",
+    "id": "1cnrei1qrdq2tt21huj3l2103n_20241221",
+    "status": "confirmed",
+    "htmlLink": "https://www.google.com/calendar/event?eid=MWNucmVpMXFyZHEydHQyMWh1ajNsMjEwM25fMjAyNDEyMjEgNW9pdW1hODJkanI2czY5NHNpbDI4bTFiYXNAZw",
+    "created": "2022-02-05T05:29:49.000Z",
+    "updated": "2022-02-05T05:30:51.635Z",
+    "summary": "San Gabriel Mountains Trailbuilders",
+    "description": "<span><br><font><p>The San Gabriel Mountains Trailbuilders work the 1st, 3rd, and 5th Saturday of every month, and we work special projects which are not scheduled. Please email us to get on to the mailinglist to keep informed about scheduled and special projects! Email Ben at<a href=\"mailto:bwootenwhite@hotmail.com\">bwootenwhite@hotmail.com</a><b></b></p></font></span>",
+    "creator": {
+      "email": "machikoyasuda@gmail.com"
+    },
+    "organizer": {
+      "email": "5oiuma82djr6s694sil28m1bas@group.calendar.google.com",
+      "displayName": "TrailAngeles Events",
+      "self": true
+    },
+    "start": {
+      "date": "2024-12-21"
+    },
+    "end": {
+      "date": "2024-12-22"
+    },
+    "recurringEventId": "1cnrei1qrdq2tt21huj3l2103n",
+    "originalStartTime": {
+      "date": "2024-12-21"
+    },
+    "transparency": "transparent",
+    "iCalUID": "1cnrei1qrdq2tt21huj3l2103n@google.com",
+    "sequence": 0,
+    "reminders": {
+      "useDefault": false
+    },
+    "eventType": "default"
+  }
+]
